@@ -185,7 +185,7 @@
           <mxGeometry x="362" y="731.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N6RizEsaxjAzNnUSrJ9s-12" value="记录数据" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="512" y="539" width="120" height="60" as="geometry" />
+          <mxGeometry x="512" y="539" width="108" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
