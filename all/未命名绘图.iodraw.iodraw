@@ -51,7 +51,7 @@
           <mxGeometry width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-6" value="途虎" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508" y="260" width="100" height="80" as="geometry">
+          <mxGeometry x="508" y="310" width="100" height="80" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -70,7 +70,7 @@
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-10" value="发送请求" style="text;html=1;resizable=0;points=[];;align=center;verticalAlign=middle;labelBackgroundColor=none;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" vertex="1" connectable="0" parent="YoBMPKM-vj5k4U8u_uAf-9">
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
-            <mxPoint x="-38" y="40" as="offset" />
+            <mxPoint x="-24" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
