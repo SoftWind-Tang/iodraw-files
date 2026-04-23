@@ -220,8 +220,13 @@
           <mxGeometry x="536" y="548.5" width="108" height="41" as="geometry" />
         </mxCell>
         <mxCell id="N6RizEsaxjAzNnUSrJ9s-24" value="车企" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="950" width="102" height="86" as="geometry">
+          <mxGeometry x="180" y="950" width="102" height="56" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N6RizEsaxjAzNnUSrJ9s-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="N6RizEsaxjAzNnUSrJ9s-24" source="N6RizEsaxjAzNnUSrJ9s-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N6RizEsaxjAzNnUSrJ9s-25" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N6RizEsaxjAzNnUSrJ9s-24">
