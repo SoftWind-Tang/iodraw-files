@@ -118,7 +118,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N6RizEsaxjAzNnUSrJ9s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-34" target="YoBMPKM-vj5k4U8u_uAf-59">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="569" />
+              <mxPoint x="330" y="461" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="N6RizEsaxjAzNnUSrJ9s-16" value="全量次数统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N6RizEsaxjAzNnUSrJ9s-15">
           <mxGeometry x="0.1058" y="-2" relative="1" as="geometry">
