@@ -104,7 +104,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-55" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-34" target="YoBMPKM-vj5k4U8u_uAf-54">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-34" value="是否沪牌" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="518" y="520" width="80" height="50" as="geometry" />
@@ -132,7 +134,7 @@
           <mxGeometry x="507" y="630" width="102" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-54" value="" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="338" y="515" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
