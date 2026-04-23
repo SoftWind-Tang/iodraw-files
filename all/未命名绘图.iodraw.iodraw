@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1578" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="用户" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="120" width="80" height="80" as="geometry">
+          <mxGeometry x="154" y="120" width="80" height="80" as="geometry">
             <mxRectangle x="220" y="120" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--17" value="途虎" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="508" y="109" width="100" height="102" as="geometry">
+          <mxGeometry x="362" y="109" width="100" height="102" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -36,8 +36,8 @@
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--26" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;curved=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="zkfFHV4jXpPFQw0GAbJ--17" edge="1">
           <mxGeometry x="0.5" y="41" relative="1" as="geometry">
-            <mxPoint x="380" y="192" as="sourcePoint" />
-            <mxPoint x="540" y="192" as="targetPoint" />
+            <mxPoint x="234" y="192" as="sourcePoint" />
+            <mxPoint x="394" y="192" as="targetPoint" />
             <mxPoint x="-40" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-6" value="车云前置机" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508" y="390" width="100" height="80" as="geometry">
+          <mxGeometry x="362" y="390" width="100" height="80" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -67,11 +67,11 @@
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-14" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;curved=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--2">
           <mxGeometry x="0.5" y="41" relative="1" as="geometry">
-            <mxPoint x="508" y="197" as="sourcePoint" />
-            <mxPoint x="518" y="170" as="targetPoint" />
+            <mxPoint x="362" y="197" as="sourcePoint" />
+            <mxPoint x="372" y="170" as="targetPoint" />
             <mxPoint x="-40" y="32" as="offset" />
             <Array as="points">
-              <mxPoint x="440" y="185" />
+              <mxPoint x="294" y="185" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,7 +83,7 @@
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-32" target="YoBMPKM-vj5k4U8u_uAf-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="192" />
+              <mxPoint x="584" y="192" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-32" value="“尊敬的车主您好，经核实，您的车辆暂未在上海市新能源汽车数据平台备案（或非沪牌）。目前我们的检测报告服务仅覆盖上海地区备案车辆，非常抱歉暂时无法为您提供完整报告。”" style="rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;fillStyle=auto;align=left;spacingTop=2;spacing=4;spacingRight=2;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="255" width="180" height="100" as="geometry" />
+          <mxGeometry x="494" y="255" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-34" target="YoBMPKM-vj5k4U8u_uAf-48">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-34" value="是否沪牌" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="518" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="372" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-36" target="YoBMPKM-vj5k4U8u_uAf-6">
           <mxGeometry relative="1" as="geometry" />
@@ -128,13 +128,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-36" value="是否沪牌" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="518" y="280" width="80" height="50" as="geometry" />
+          <mxGeometry x="372" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YoBMPKM-vj5k4U8u_uAf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-48" value="EV Data" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="507" y="630" width="102" height="25" as="geometry" />
+          <mxGeometry x="361" y="630" width="102" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-54" value="" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="515" width="120" height="60" as="geometry" />
+          <mxGeometry x="184" y="515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
