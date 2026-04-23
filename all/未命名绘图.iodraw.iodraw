@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-6" value="车云前置机" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="390" width="102" height="146" as="geometry">
+          <mxGeometry x="360" y="390" width="102" height="94" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -63,7 +63,7 @@
           <mxGeometry y="26" width="102" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-59" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YoBMPKM-vj5k4U8u_uAf-6">
-          <mxGeometry y="60" width="102" height="34" as="geometry" />
+          <mxGeometry y="60" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-14" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;curved=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--2">
           <mxGeometry x="0.5" y="41" relative="1" as="geometry">
