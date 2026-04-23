@@ -175,7 +175,7 @@
         <mxCell id="N6RizEsaxjAzNnUSrJ9s-4" value="2. 数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N6RizEsaxjAzNnUSrJ9s-2">
           <mxGeometry y="56" width="102" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N6RizEsaxjAzNnUSrJ9s-5" value="" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N6RizEsaxjAzNnUSrJ9s-5" value="数据是否&lt;br&gt;读取成功" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="372" y="731.5" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
