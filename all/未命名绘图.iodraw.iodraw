@@ -90,8 +90,8 @@
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YoBMPKM-vj5k4U8u_uAf-32" value="“尊敬的车主您好，经核实，您的车辆暂未在上海市新能源汽车数据平台备案（或非沪牌）。目前我们的检测报告服务仅覆盖上海地区备案车辆，非常抱歉暂时无法为您提供完整报告。”" style="rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;fillStyle=auto;align=left;spacingTop=2;spacing=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="170" width="170" height="90" as="geometry" />
+        <mxCell id="YoBMPKM-vj5k4U8u_uAf-32" value="“尊敬的车主您好，经核实，您的车辆暂未在上海市新能源汽车数据平台备案（或非沪牌）。目前我们的检测报告服务仅覆盖上海地区备案车辆，非常抱歉暂时无法为您提供完整报告。”" style="rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;fillStyle=auto;align=left;spacingTop=2;spacing=4;spacingRight=2;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="170" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
