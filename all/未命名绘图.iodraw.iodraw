@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-6" value="车云前置机" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="390" width="102" height="86" as="geometry">
+          <mxGeometry x="361" y="390" width="102" height="86" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
