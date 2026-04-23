@@ -224,13 +224,17 @@
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N6RizEsaxjAzNnUSrJ9s-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="N6RizEsaxjAzNnUSrJ9s-24" source="N6RizEsaxjAzNnUSrJ9s-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-70" y="-290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N6RizEsaxjAzNnUSrJ9s-25" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N6RizEsaxjAzNnUSrJ9s-24">
           <mxGeometry y="26" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N6RizEsaxjAzNnUSrJ9s-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N6RizEsaxjAzNnUSrJ9s-25" target="YoBMPKM-vj5k4U8u_uAf-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="991" />
+              <mxPoint x="110" y="667" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
