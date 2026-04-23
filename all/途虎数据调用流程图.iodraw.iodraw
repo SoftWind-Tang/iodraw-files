@@ -103,8 +103,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YoBMPKM-vj5k4U8u_uAf-55" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-34" target="YoBMPKM-vj5k4U8u_uAf-54">
+        <mxCell id="YoBMPKM-vj5k4U8u_uAf-55" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-34">
           <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint x="303" y="569" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -159,9 +160,6 @@
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-48" value="EV Data" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="361" y="654" width="102" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="YoBMPKM-vj5k4U8u_uAf-54" value="" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="183" y="539" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
