@@ -85,6 +85,9 @@
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-34" value="是否沪牌" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="520" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YoBMPKM-vj5k4U8u_uAf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-36" target="YoBMPKM-vj5k4U8u_uAf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-36" value="是否沪牌" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="518" y="280" width="80" height="50" as="geometry" />
         </mxCell>
