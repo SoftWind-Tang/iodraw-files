@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="526" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="892" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -90,7 +90,7 @@
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YoBMPKM-vj5k4U8u_uAf-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YoBMPKM-vj5k4U8u_uAf-32" value="&lt;span style=&quot;white-space: pre;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMmxpc3RJdGVtJTIyJTJDJTIyb3JkZXJlZCUyMiUzQWZhbHNlJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0ZXh0JTIyJTNBJTIyJUUyJTgwJTlDJUU1JUIwJThBJUU2JTk1JUFDJUU3JTlBJTg0JUU4JUJEJUE2JUU0JUI4JUJCJUU2JTgyJUE4JUU1JUE1JUJEJUVGJUJDJThDJUU3JUJCJThGJUU2JUEwJUI4JUU1JUFFJTlFJUVGJUJDJThDJUU2JTgyJUE4JUU3JTlBJTg0JUU4JUJEJUE2JUU4JUJFJTg2JUU2JTlBJTgyJUU2JTlDJUFBJUU1JTlDJUE4JUU0JUI4JThBJUU2JUI1JUI3JUU1JUI4JTgyJUU2JTk2JUIwJUU4JTgzJUJEJUU2JUJBJTkwJUU2JUIxJUJEJUU4JUJEJUE2JUU2JTk1JUIwJUU2JThEJUFFJUU1JUI5JUIzJUU1JThGJUIwJUU1JUE0JTg3JUU2JUExJTg4JUVGJUJDJTg4JUU2JTg4JTk2JUU5JTlEJTlFJUU2JUIyJUFBJUU3JTg5JThDJUVGJUJDJTg5JUUzJTgwJTgyJUU3JTlCJUFFJUU1JTg5JThEJUU2JTg4JTkxJUU0JUJCJUFDJUU3JTlBJTg0JUU2JUEzJTgwJUU2JUI1JThCJUU2JThBJUE1JUU1JTkxJThBJUU2JTlDJThEJUU1JThBJUExJUU0JUJCJTg1JUU4JUE2JTg2JUU3JTlCJTk2JUU0JUI4JThBJUU2JUI1JUI3JUU1JTlDJUIwJUU1JThDJUJBJUU1JUE0JTg3JUU2JUExJTg4JUU4JUJEJUE2JUU4JUJFJTg2JUVGJUJDJThDJUU5JTlEJTlFJUU1JUI4JUI4JUU2JThBJUIxJUU2JUFEJTg5JUU2JTlBJTgyJUU2JTk3JUI2JUU2JTk3JUEwJUU2JUIzJTk1JUU0JUI4JUJBJUU2JTgyJUE4JUU2JThGJTkwJUU0JUJFJTlCJUU1JUFFJThDJUU2JTk1JUI0JUU2JThBJUE1JUU1JTkxJThBJUUzJTgwJTgyJUUyJTgwJTlEJTIyJTdEJTVEJTdEJTVE&quot;&gt;“尊敬的车主您好，经核实，您的车辆暂未在上海市新能源汽车数据平台备案（或非沪牌）。目前我们的检测报告服务仅覆盖上海地区备案车辆，非常抱歉暂时无法为您提供完整报告。”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
