@@ -121,7 +121,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YoBMPKM-vj5k4U8u_uAf-34" value="是否沪牌" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YoBMPKM-vj5k4U8u_uAf-34" value="是否沪牌" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="372" y="544" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YoBMPKM-vj5k4U8u_uAf-36" target="YoBMPKM-vj5k4U8u_uAf-6">
