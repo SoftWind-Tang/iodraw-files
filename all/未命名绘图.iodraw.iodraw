@@ -16,7 +16,7 @@
           <mxGeometry y="52" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--17" value="途虎" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="508" y="120" width="100" height="138" as="geometry">
+          <mxGeometry x="508" y="120" width="100" height="80" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -25,12 +25,6 @@
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--19" value="2. 融合计算" style="text;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="52" width="100" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="YoBMPKM-vj5k4U8u_uAf-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="78" as="sourcePoint" />
-            <mxPoint y="78" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--26" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;curved=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="zkfFHV4jXpPFQw0GAbJ--17" edge="1">
           <mxGeometry x="0.5" y="41" relative="1" as="geometry">
@@ -48,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-6" value="车云前置机" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508" y="320" width="100" height="80" as="geometry">
+          <mxGeometry x="298" y="366.96" width="100" height="80" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -75,11 +69,11 @@
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="YoBMPKM-vj5k4U8u_uAf-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="508" y="213.04347826086962" as="sourcePoint" />
+            <mxPoint x="298" y="260.0034782608696" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="480" y="213" />
-              <mxPoint x="480" y="269" />
-              <mxPoint x="558" y="269" />
+              <mxPoint x="270" y="259.96" />
+              <mxPoint x="270" y="315.96" />
+              <mxPoint x="348" y="315.96" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -101,7 +95,7 @@
           <mxGeometry x="640" y="158" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YoBMPKM-vj5k4U8u_uAf-34" value="是否沪牌" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="518" y="450" width="80" height="50" as="geometry" />
+          <mxGeometry x="308" y="496.96" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
