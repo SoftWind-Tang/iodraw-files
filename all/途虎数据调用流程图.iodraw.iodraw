@@ -4,6 +4,12 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="N6RizEsaxjAzNnUSrJ9s-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="370" width="500" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="N6RizEsaxjAzNnUSrJ9s-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="640" width="260" height="390" as="geometry" />
+        </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="用户" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="154" y="120" width="80" height="80" as="geometry">
             <mxRectangle x="220" y="120" width="160" height="26" as="alternateBounds" />
@@ -250,14 +256,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N6RizEsaxjAzNnUSrJ9s-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="640" width="260" height="390" as="geometry" />
-        </mxCell>
         <mxCell id="N6RizEsaxjAzNnUSrJ9s-37" value="建立数据质量SLA与通报机制。每月向各个车企发送“新能源数据接入质量月报”，包含：数据及时上传率、漏报率等。&lt;br&gt;建立车企横向排名机制。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;fontStyle=0;spacing=4;spacingTop=2;spacingLeft=2;spacingBottom=2;spacingRight=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="450" width="160" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="N6RizEsaxjAzNnUSrJ9s-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="370" width="500" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
