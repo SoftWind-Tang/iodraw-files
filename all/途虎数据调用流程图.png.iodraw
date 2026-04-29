@@ -271,8 +271,8 @@
         <mxCell id="nFVUZT0RBETgOT0-jqhT-0" value="途虎数据调用流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=24;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="293" y="30" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pM8wL5w9yJlb_5SlkFHA-0" value="" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="524" y="667.5" width="120" height="60" as="geometry" />
+        <mxCell id="pM8wL5w9yJlb_5SlkFHA-0" value="通知途虎" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=26;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="524" y="667.5" width="106" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
