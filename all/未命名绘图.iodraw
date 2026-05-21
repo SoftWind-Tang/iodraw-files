@@ -18,7 +18,7 @@
         <mxCell id="FYfx3RPDgd5LK9CBJ4x4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FYfx3RPDgd5LK9CBJ4x4-2" target="FYfx3RPDgd5LK9CBJ4x4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FYfx3RPDgd5LK9CBJ4x4-7" value="授权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FYfx3RPDgd5LK9CBJ4x4-5">
+        <mxCell id="FYfx3RPDgd5LK9CBJ4x4-7" value="再授权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FYfx3RPDgd5LK9CBJ4x4-5">
           <mxGeometry x="-0.0286" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -27,7 +27,7 @@
           <mxGeometry x="185" y="110" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FYfx3RPDgd5LK9CBJ4x4-4" value="车云" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="100" width="60" height="40" as="geometry" />
+          <mxGeometry x="320" y="110" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
