@@ -14,10 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-2" value="需求调研" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="90" width="105" height="40" as="geometry" />
+          <mxGeometry x="210" y="90" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-4" value="团队沟通" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="85" width="82.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
