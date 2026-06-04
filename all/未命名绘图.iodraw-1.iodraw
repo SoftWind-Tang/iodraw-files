@@ -46,8 +46,14 @@
         <mxCell id="-SUNFutdstPv2tPpOUsf-12" value="POC" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-SUNFutdstPv2tPpOUsf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-SUNFutdstPv2tPpOUsf-14" target="-SUNFutdstPv2tPpOUsf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-14" value="签合同" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SUNFutdstPv2tPpOUsf-16" value="付款" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
