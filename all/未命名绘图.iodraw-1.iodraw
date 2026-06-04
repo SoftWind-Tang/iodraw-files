@@ -22,8 +22,14 @@
         <mxCell id="-SUNFutdstPv2tPpOUsf-4" value="团队沟通" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="85" width="82.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-SUNFutdstPv2tPpOUsf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-SUNFutdstPv2tPpOUsf-6" target="-SUNFutdstPv2tPpOUsf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-6" value="正式交流" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="433.75" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="85" width="96.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-SUNFutdstPv2tPpOUsf-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="578.375" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
