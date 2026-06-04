@@ -58,8 +58,14 @@
         <mxCell id="-SUNFutdstPv2tPpOUsf-16" value="付款" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-SUNFutdstPv2tPpOUsf-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-SUNFutdstPv2tPpOUsf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-SUNFutdstPv2tPpOUsf-20" target="-SUNFutdstPv2tPpOUsf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-SUNFutdstPv2tPpOUsf-20" value="交付" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SUNFutdstPv2tPpOUsf-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="695" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
