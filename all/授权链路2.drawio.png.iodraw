@@ -26,19 +26,8 @@
         <mxCell id="FYfx3RPDgd5LK9CBJ4x4-2" value="保险公司" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="110" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FYfx3RPDgd5LK9CBJ4x4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FYfx3RPDgd5LK9CBJ4x4-4" target="FYfx3RPDgd5LK9CBJ4x4-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FYfx3RPDgd5LK9CBJ4x4-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FYfx3RPDgd5LK9CBJ4x4-9">
-          <mxGeometry x="-0.075" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FYfx3RPDgd5LK9CBJ4x4-4" value="保险科技公司" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FYfx3RPDgd5LK9CBJ4x4-8" value="车云" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="110" width="60" height="40" as="geometry" />
+        <mxCell id="FYfx3RPDgd5LK9CBJ4x4-4" value="车云" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
