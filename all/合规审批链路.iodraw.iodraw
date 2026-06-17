@@ -254,7 +254,7 @@
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-121" value="签字" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j0Vj8CfX8s58eXQIrhWJ-119">
           <mxGeometry x="-0.9026" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
