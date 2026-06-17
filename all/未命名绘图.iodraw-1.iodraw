@@ -20,13 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-4" value="工单" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="90" width="100" height="45" as="geometry" />
+          <mxGeometry x="310" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-SUNFutdstPv2tPpOUsf-6" target="-SUNFutdstPv2tPpOUsf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-6" value="初次正式交流" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="437" y="85" width="96.25" height="50" as="geometry" />
+          <mxGeometry x="437" y="85" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-SUNFutdstPv2tPpOUsf-8" target="-SUNFutdstPv2tPpOUsf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
