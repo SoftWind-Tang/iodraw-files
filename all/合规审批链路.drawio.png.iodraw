@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1080" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1207" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="业务合规授权判断与领导签字" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="23" width="2020" height="1020" as="geometry">
+          <mxGeometry x="10" y="23" width="2020" height="1040" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -36,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-43" value="法务律师" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry y="120" width="2020" height="250" as="geometry">
+          <mxGeometry y="120" width="2020" height="270" as="geometry">
             <mxRectangle y="20" width="450" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -70,14 +70,25 @@
         </mxCell>
         <mxCell id="x6ngwtgiISQCDT8iURP8-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x6ngwtgiISQCDT8iURP8-11">
           <mxGeometry x="-0.6902" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-22" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6ngwtgiISQCDT8iURP8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="j0Vj8CfX8s58eXQIrhWJ-43" source="x6ngwtgiISQCDT8iURP8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="47" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="17" />
+              <mxPoint x="380" y="17" />
+              <mxPoint x="380" y="48" />
+              <mxPoint x="250" y="48" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x6ngwtgiISQCDT8iURP8-4" value="是否修订" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
           <mxGeometry x="510" y="15" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="市场部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry y="370" width="2020" height="370" as="geometry">
+          <mxGeometry y="390" width="2020" height="370" as="geometry">
             <mxRectangle y="20" width="450" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -144,7 +155,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="分析部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry y="740" width="2020" height="160" as="geometry">
+          <mxGeometry y="760" width="2020" height="160" as="geometry">
             <mxRectangle y="140" width="450" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -176,7 +187,7 @@
           <mxGeometry x="780" y="49" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="技术部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry y="900" width="2020" height="120" as="geometry" />
+          <mxGeometry y="920" width="2020" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-22" edge="1">
           <mxGeometry relative="1" as="geometry">
