@@ -127,6 +127,15 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-8" value="判断" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="230" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-56" value="分管领导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="334" y="645" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0Vj8CfX8s58eXQIrhWJ-58" target="j0Vj8CfX8s58eXQIrhWJ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-58" value="技术实现&lt;br&gt;路径判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="635" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
