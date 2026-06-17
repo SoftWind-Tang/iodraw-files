@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-44" value="徐律师" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
-          <mxGeometry x="310" y="17" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="17" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-51" value="签字" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j0Vj8CfX8s58eXQIrhWJ-43" source="j0Vj8CfX8s58eXQIrhWJ-49" target="j0Vj8CfX8s58eXQIrhWJ-50">
           <mxGeometry x="-0.1333" relative="1" as="geometry">
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-49" value="风险评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
-          <mxGeometry x="643" y="7" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="7" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-50" value="合规审批单&lt;br&gt;（律师签批版）" style="whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
           <mxGeometry x="882" y="17" width="120" height="60" as="geometry" />
@@ -211,7 +211,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="159" y="187" />
-              <mxPoint x="230" y="187" />
+              <mxPoint x="350" y="187" />
+              <mxPoint x="350" y="97" />
             </Array>
           </mxGeometry>
         </mxCell>
