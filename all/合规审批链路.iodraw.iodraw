@@ -208,6 +208,9 @@
             <mxPoint x="414" y="40.000000000000114" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-113" value="数据授权合规保密及免责协议" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-104">
+          <mxGeometry x="1310" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-6" target="j0Vj8CfX8s58eXQIrhWJ-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -245,9 +248,6 @@
           <mxGeometry x="-0.9346" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-113" value="合规审批单&lt;br&gt;（最终签批版）" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="323" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
