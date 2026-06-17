@@ -59,28 +59,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-16" value="付款" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="483" y="555" width="99" height="40" as="geometry" />
+          <mxGeometry x="493.5" y="560" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-SUNFutdstPv2tPpOUsf-20" target="-SUNFutdstPv2tPpOUsf-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-20" value="交付" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="683" y="555" width="99" height="40" as="geometry" />
+          <mxGeometry x="693.5" y="560" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-SUNFutdstPv2tPpOUsf-22" target="-SUNFutdstPv2tPpOUsf-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-22" value="验收" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="683" y="695" width="99" height="40" as="geometry" />
+          <mxGeometry x="693.5" y="700" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-SUNFutdstPv2tPpOUsf-24" target="-SUNFutdstPv2tPpOUsf-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-24" value="收款" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="483" y="695" width="99" height="40" as="geometry" />
+          <mxGeometry x="493.5" y="700" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-26" value="尾款" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="583" y="860" width="99" height="40" as="geometry" />
+          <mxGeometry x="593.5" y="865" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
