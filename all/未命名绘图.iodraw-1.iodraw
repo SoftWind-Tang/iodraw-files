@@ -73,7 +73,7 @@
           <mxGeometry x="630" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-64" value="合规审批单与意见" style="whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="760" y="35" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="技术部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry y="620" width="1090" height="120" as="geometry" />
@@ -140,9 +140,6 @@
               <mxPoint x="514" y="430" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-39" target="j0Vj8CfX8s58eXQIrhWJ-31">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-31" target="j0Vj8CfX8s58eXQIrhWJ-8">
           <mxGeometry relative="1" as="geometry" />
