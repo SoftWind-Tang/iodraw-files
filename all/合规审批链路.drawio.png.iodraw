@@ -40,17 +40,20 @@
             <mxRectangle y="20" width="450" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="x6ngwtgiISQCDT8iURP8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j0Vj8CfX8s58eXQIrhWJ-43" source="j0Vj8CfX8s58eXQIrhWJ-44" target="x6ngwtgiISQCDT8iURP8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-44" value="徐律师" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" parent="j0Vj8CfX8s58eXQIrhWJ-43" vertex="1">
           <mxGeometry x="290" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-49" value="风险评估" style="rhombus;whiteSpace=wrap;html=1;" parent="j0Vj8CfX8s58eXQIrhWJ-43" vertex="1">
-          <mxGeometry x="510" y="157" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="155" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-50" value="数据授权合规保密及免责协议&lt;br&gt;（修订版）" style="whiteSpace=wrap;html=1;" parent="j0Vj8CfX8s58eXQIrhWJ-43" vertex="1">
           <mxGeometry x="1120" y="17" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6ngwtgiISQCDT8iURP8-4" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
-          <mxGeometry x="510" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="15" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="市场部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry y="370" width="2020" height="370" as="geometry">
