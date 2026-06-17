@@ -40,8 +40,8 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-50" value="合规审批单&lt;br&gt;（律师签批版）" style="whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
           <mxGeometry x="925" y="17" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-122" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
-          <mxGeometry x="780" y="117" width="120" height="60" as="geometry" />
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-122" value="数据授权合规保密及免责协议&lt;br&gt;（修订版）" style="whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
+          <mxGeometry x="750" y="127" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="市场部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry y="230" width="1890" height="340" as="geometry">
