@@ -42,10 +42,10 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-49" value="风险评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
           <mxGeometry x="630" y="7" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-122" value="数据授权合规保密及免责协议&lt;br&gt;（修订版）" style="whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-122" value="合规审批单&lt;br&gt;（律师签批版）" style="whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
           <mxGeometry x="940" y="127" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-50" value="合规审批单&lt;br&gt;（律师签批版）" style="whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-50" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
           <mxGeometry x="1120" y="17" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-51" value="签字" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j0Vj8CfX8s58eXQIrhWJ-43" source="j0Vj8CfX8s58eXQIrhWJ-49" target="j0Vj8CfX8s58eXQIrhWJ-50">
