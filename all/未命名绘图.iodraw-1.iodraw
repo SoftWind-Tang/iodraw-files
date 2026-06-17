@@ -58,7 +58,7 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-6" value="业务需求信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="114" y="170" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-73" value="合规审批单" style="whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-73" value="合规审批单&lt;br&gt;（初稿）" style="whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="285" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="分析部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
