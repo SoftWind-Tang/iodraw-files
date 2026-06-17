@@ -160,13 +160,8 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-67" target="j0Vj8CfX8s58eXQIrhWJ-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-66" target="j0Vj8CfX8s58eXQIrhWJ-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="340" y="176" />
-              <mxPoint x="200" y="176" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-73" value="合规审批单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="94" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
