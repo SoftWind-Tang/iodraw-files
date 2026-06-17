@@ -252,9 +252,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-120" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j0Vj8CfX8s58eXQIrhWJ-119">
-          <mxGeometry x="0.5268" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-121" value="签字" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j0Vj8CfX8s58eXQIrhWJ-119">
+          <mxGeometry x="-0.9026" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
