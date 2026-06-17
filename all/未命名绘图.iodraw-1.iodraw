@@ -55,7 +55,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-31" value="分管领导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="269" y="30" width="90" height="60" as="geometry" />
+          <mxGeometry x="269" y="35" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="j0Vj8CfX8s58eXQIrhWJ-39" target="j0Vj8CfX8s58eXQIrhWJ-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-39" value="技术实现&lt;br&gt;可行性判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="119" y="25" width="80" height="80" as="geometry" />
