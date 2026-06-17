@@ -100,7 +100,7 @@
           <mxGeometry x="470" y="37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-89" value="方案确认" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="815" y="27" width="80" height="80" as="geometry" />
+          <mxGeometry x="780" y="27" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="技术部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry y="650" width="1090" height="120" as="geometry" />
@@ -175,14 +175,14 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-89" target="j0Vj8CfX8s58eXQIrhWJ-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="855" y="427" />
+              <mxPoint x="820" y="427" />
               <mxPoint x="345" y="427" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-85" value="方案确认签字" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j0Vj8CfX8s58eXQIrhWJ-84">
           <mxGeometry x="0.0413" relative="1" as="geometry">
-            <mxPoint x="2" as="offset" />
+            <mxPoint x="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0Vj8CfX8s58eXQIrhWJ-8" target="j0Vj8CfX8s58eXQIrhWJ-64">
