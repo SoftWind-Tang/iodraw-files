@@ -57,9 +57,6 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-31" value="分管领导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="269" y="30" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="119" y="25" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="技术部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry y="490" width="620" height="120" as="geometry" />
         </mxCell>
@@ -90,14 +87,6 @@
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-31" target="j0Vj8CfX8s58eXQIrhWJ-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-6" target="j0Vj8CfX8s58eXQIrhWJ-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="410" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
