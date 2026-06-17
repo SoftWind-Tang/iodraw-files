@@ -81,11 +81,17 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-39" value="技术实现&lt;br&gt;路径判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="119" y="27" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="j0Vj8CfX8s58eXQIrhWJ-66" target="j0Vj8CfX8s58eXQIrhWJ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-66" value="技术实现路径" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="300" y="37" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-82" value="分管领导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="610" y="37" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-86" value="合规审批单" style="whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="440" y="37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="技术部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry y="650" width="1090" height="120" as="geometry" />
