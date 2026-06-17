@@ -81,6 +81,11 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="j0Vj8CfX8s58eXQIrhWJ-73">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="-133" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="57" />
+              <mxPoint x="351" y="57" />
+              <mxPoint x="351" y="-133" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-73" value="合规审批单&lt;br&gt;（初稿）" style="whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
