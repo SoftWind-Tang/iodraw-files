@@ -43,6 +43,9 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="j0Vj8CfX8s58eXQIrhWJ-43" source="j0Vj8CfX8s58eXQIrhWJ-44" target="j0Vj8CfX8s58eXQIrhWJ-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="137" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-44" value="徐律师" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" parent="j0Vj8CfX8s58eXQIrhWJ-43" vertex="1">
@@ -226,7 +229,7 @@
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-124" value="签字" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j0Vj8CfX8s58eXQIrhWJ-123" vertex="1" connectable="0">
           <mxGeometry x="-0.5067" relative="1" as="geometry">
-            <mxPoint x="30" as="offset" />
+            <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="j0Vj8CfX8s58eXQIrhWJ-89" target="j0Vj8CfX8s58eXQIrhWJ-73" edge="1">
