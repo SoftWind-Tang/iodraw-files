@@ -5,17 +5,17 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="业务合规授权判断与领导签字" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="23" width="2080" height="1180" as="geometry">
+          <mxGeometry x="10" y="23" width="2080" height="1020" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-127" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
-          <mxGeometry y="20" width="2080" height="210" as="geometry">
+          <mxGeometry y="20" width="2080" height="50" as="geometry">
             <mxRectangle y="20" width="450" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-43" value="法务律师" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
-          <mxGeometry y="230" width="2080" height="210" as="geometry">
+          <mxGeometry y="70" width="2080" height="210" as="geometry">
             <mxRectangle y="20" width="450" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="市场部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry y="440" width="2080" height="340" as="geometry">
+          <mxGeometry y="280" width="2080" height="340" as="geometry">
             <mxRectangle y="20" width="450" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -85,7 +85,7 @@
           <mxGeometry x="290" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="分析部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry y="780" width="2080" height="160" as="geometry">
+          <mxGeometry y="620" width="2080" height="160" as="geometry">
             <mxRectangle y="140" width="450" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -117,7 +117,7 @@
           <mxGeometry x="780" y="49" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="技术部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry y="940" width="2080" height="120" as="geometry" />
+          <mxGeometry y="780" width="2080" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-22" target="dNxyNK7c78bLwvsdeMH5-32" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -154,7 +154,7 @@
           <mxGeometry x="300" y="36" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-104" value="办公室" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
-          <mxGeometry y="1060" width="2080" height="120" as="geometry" />
+          <mxGeometry y="900" width="2080" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="j0Vj8CfX8s58eXQIrhWJ-104">
           <mxGeometry relative="1" as="geometry">
