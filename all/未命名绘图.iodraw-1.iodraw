@@ -43,8 +43,11 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-8" value="判断" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="274" y="120" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="j0Vj8CfX8s58eXQIrhWJ-29" target="j0Vj8CfX8s58eXQIrhWJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-29" value="用户授权文件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="265" y="30" width="90" height="60" as="geometry" />
+          <mxGeometry x="269" y="30" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="分析部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry y="270" width="620" height="120" as="geometry">
