@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1207" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1710" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,27 +214,6 @@
           <mxGeometry x="-0.9346" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0Vj8CfX8s58eXQIrhWJ-8" target="j0Vj8CfX8s58eXQIrhWJ-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-8" value="判断" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="781" y="1020" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-64" value="合规审批单与意见" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="931" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-31" value="分管领导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1030" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0Vj8CfX8s58eXQIrhWJ-31" target="j0Vj8CfX8s58eXQIrhWJ-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-56" value="分管领导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="621" y="1181" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0Vj8CfX8s58eXQIrhWJ-56" target="j0Vj8CfX8s58eXQIrhWJ-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
