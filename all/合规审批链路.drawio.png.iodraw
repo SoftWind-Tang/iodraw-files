@@ -73,16 +73,8 @@
             <mxPoint x="-22" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x6ngwtgiISQCDT8iURP8-13" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="j0Vj8CfX8s58eXQIrhWJ-43" source="x6ngwtgiISQCDT8iURP8-4" target="x6ngwtgiISQCDT8iURP8-14">
-          <mxGeometry x="-0.4401" relative="1" as="geometry">
-            <mxPoint x="250" y="47" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="17" />
-              <mxPoint x="170" y="17" />
-              <mxPoint x="170" y="57" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="x6ngwtgiISQCDT8iURP8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="j0Vj8CfX8s58eXQIrhWJ-43" source="x6ngwtgiISQCDT8iURP8-4" target="x6ngwtgiISQCDT8iURP8-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x6ngwtgiISQCDT8iURP8-4" value="是否修订" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="j0Vj8CfX8s58eXQIrhWJ-43">
           <mxGeometry x="510" y="35" width="80" height="80" as="geometry" />
