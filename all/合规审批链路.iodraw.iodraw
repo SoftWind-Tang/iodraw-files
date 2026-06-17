@@ -83,7 +83,7 @@
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-79" value="判断" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="686" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-93" value="" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-93" value="合规审批单&lt;br&gt;（业务签批版）" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="826" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="分析部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
