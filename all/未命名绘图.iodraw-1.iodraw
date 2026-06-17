@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-1" value="客户线索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="33" y="90" width="110" height="40" as="geometry" />
+          <mxGeometry x="33" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SUNFutdstPv2tPpOUsf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-SUNFutdstPv2tPpOUsf-2" target="-SUNFutdstPv2tPpOUsf-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
