@@ -101,7 +101,10 @@
           <mxGeometry x="990" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-98" value="合规审批单&lt;br&gt;（最终签批版）" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="1310" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0Vj8CfX8s58eXQIrhWJ-103" value="签字" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="j0Vj8CfX8s58eXQIrhWJ-101" target="j0Vj8CfX8s58eXQIrhWJ-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0Vj8CfX8s58eXQIrhWJ-101" value="判断" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="1160" y="130" width="80" height="80" as="geometry" />
