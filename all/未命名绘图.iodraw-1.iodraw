@@ -148,10 +148,10 @@
           <mxGeometry x="40" y="858" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-143" value="时间未知" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
-          <mxGeometry x="165" y="891" width="30" height="60" as="geometry" />
+          <mxGeometry x="190" y="892" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-144" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
-          <mxGeometry x="145" y="862" width="10" height="118" as="geometry" />
+          <mxGeometry x="170" y="863" width="10" height="118" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-91" source="Qtb-9DlkiSXl4W4shPLA-154" target="Qtb-9DlkiSXl4W4shPLA-156">
           <mxGeometry relative="1" as="geometry" />
@@ -168,10 +168,10 @@
           <mxGeometry x="40" y="1028" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-159" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
-          <mxGeometry x="145" y="1007" width="10" height="63" as="geometry" />
+          <mxGeometry x="170" y="1008" width="10" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-160" value="时间不定" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
-          <mxGeometry x="165" y="1007" width="30" height="60" as="geometry" />
+          <mxGeometry x="190" y="1008" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-92" value="办公室" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry x="890" y="23" width="200" height="200" as="geometry" />
@@ -224,6 +224,9 @@
           <mxGeometry x="-0.2848" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-178" value="拉会沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1111" width="90" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
