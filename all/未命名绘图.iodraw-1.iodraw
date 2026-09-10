@@ -29,7 +29,7 @@
           <mxGeometry x="200" y="23" width="200" height="467" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-108" value="需求可行性沟通&lt;div&gt;（内部沟通）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
-          <mxGeometry x="55" y="147" width="115" height="43" as="geometry" />
+          <mxGeometry x="42.5" y="147" width="115" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-91" value="EV" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry x="400" y="23" width="200" height="200" as="geometry" />
@@ -44,6 +44,9 @@
               <mxPoint x="218" y="192" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-110" value="需求沟通&lt;div&gt;（客户侧）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="168.5" width="90" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
