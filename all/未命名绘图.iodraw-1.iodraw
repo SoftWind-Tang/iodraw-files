@@ -55,7 +55,7 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-89" source="Qtb-9DlkiSXl4W4shPLA-149" target="Qtb-9DlkiSXl4W4shPLA-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-149" value="邮件报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-149" value="合规资料准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="687" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-151" value="邮件报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
