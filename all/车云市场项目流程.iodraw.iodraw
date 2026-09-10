@@ -512,6 +512,9 @@
         <mxCell id="IhxY8Su1rP2UitkFp2eE-18" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="1300" width="1310" height="800" as="geometry" />
         </mxCell>
+        <mxCell id="IhxY8Su1rP2UitkFp2eE-19" value="方案验证阶段：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;顺利：&lt;/div&gt;&lt;div&gt;5 - 10 天&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;不顺利：&lt;/div&gt;&lt;div&gt;时间不定&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="739.5" width="61" height="201" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
