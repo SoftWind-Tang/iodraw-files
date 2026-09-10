@@ -40,6 +40,9 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-128" value="1-2天" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="20" y="305" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-139" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
+          <mxGeometry x="57" y="527" width="20" height="223" as="geometry" />
+        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry x="200" y="23" width="620" height="1027" as="geometry" />
         </mxCell>
@@ -119,9 +122,6 @@
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-136" target="Qtb-9DlkiSXl4W4shPLA-133">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-139" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="-663" y="263" width="20" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
