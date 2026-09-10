@@ -506,7 +506,7 @@
         <mxCell id="IhxY8Su1rP2UitkFp2eE-6" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="410" width="1300" height="840" as="geometry" />
         </mxCell>
-        <mxCell id="IhxY8Su1rP2UitkFp2eE-13" value="需求沟通阶段：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 - 4 天&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhxY8Su1rP2UitkFp2eE-13" value="方案验证阶段：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 - 4 天&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-801" y="650" width="61" height="201" as="geometry" />
         </mxCell>
       </root>
