@@ -108,9 +108,6 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-200" value="报价单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="1082" width="90" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-217" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#808080;size=0.5;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
-          <mxGeometry x="57" y="1337" width="20" height="283" as="geometry" />
-        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-218" value="时间不定" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="20" y="1448.5" width="30" height="60" as="geometry" />
         </mxCell>
@@ -320,7 +317,7 @@
           <mxGeometry x="55" y="1847" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-207" value="合同签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-92">
-          <mxGeometry x="55" y="1340" width="90" height="283" as="geometry">
+          <mxGeometry x="26" y="1340" width="90" height="283" as="geometry">
             <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
