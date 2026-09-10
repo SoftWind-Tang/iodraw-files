@@ -109,7 +109,7 @@
           <mxGeometry x="90" y="1082" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-207" value="合同签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
-          <mxGeometry x="90" y="1337" width="90" height="153" as="geometry">
+          <mxGeometry x="90" y="1337" width="90" height="383" as="geometry">
             <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
