@@ -61,7 +61,7 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-151" value="邮件报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="757" width="90" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部/徐律师" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry x="200" y="23" width="450" height="1557" as="geometry">
             <mxRectangle x="200" y="23" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
