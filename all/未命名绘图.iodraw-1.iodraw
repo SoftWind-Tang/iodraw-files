@@ -106,6 +106,9 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-143" value="时间未知" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
           <mxGeometry x="160" y="748.5" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-144" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
+          <mxGeometry x="140" y="762" width="20" height="38" as="geometry" />
+        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-92" value="办公室" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry x="600" y="23" width="200" height="200" as="geometry" />
         </mxCell>
