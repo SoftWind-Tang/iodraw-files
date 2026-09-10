@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2387" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3934" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -518,7 +518,7 @@
         <mxCell id="IhxY8Su1rP2UitkFp2eE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="2310" width="1310" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="IhxY8Su1rP2UitkFp2eE-21" value="项目验收收款：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;加急：&lt;/div&gt;&lt;div&gt;1 - 2 天&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;顺利：&lt;/div&gt;&lt;div&gt;3 - 5天&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;不顺利：&lt;/div&gt;&lt;div&gt;时间不定&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhxY8Su1rP2UitkFp2eE-21" value="项目验收收款：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;时间不定&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-801" y="2640" width="61" height="201" as="geometry" />
         </mxCell>
       </root>
