@@ -61,6 +61,9 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-151" value="邮件报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="858" width="90" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-170" value="需求预算沟通&lt;div&gt;（客户侧）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
+          <mxGeometry x="90" y="227" width="90" height="43" as="geometry" />
+        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部/徐律师" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry x="200" y="23" width="450" height="1557" as="geometry">
             <mxRectangle x="200" y="23" width="50" height="40" as="alternateBounds" />
@@ -204,9 +207,6 @@
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-151" target="Qtb-9DlkiSXl4W4shPLA-133">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-170" value="需求沟通&lt;div&gt;（客户侧）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="198.5" width="90" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
