@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-108" value="1. 需求可行性沟通&lt;div&gt;2. 成本初步预估&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
-          <mxGeometry x="42.5" y="161" width="115" height="43" as="geometry" />
+          <mxGeometry x="42.5" y="172" width="115" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-119" value="关闭商机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
           <mxGeometry x="42.5" y="332" width="90" height="43" as="geometry" />
@@ -74,11 +74,12 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-92" value="办公室" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry x="600" y="23" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-101" target="Qtb-9DlkiSXl4W4shPLA-108">
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="208.5" as="sourcePoint" />
+            <mxPoint x="129" y="174.5" as="sourcePoint" />
+            <mxPoint x="236.5" y="209.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="135" y="219" />
+              <mxPoint x="129" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
