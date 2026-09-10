@@ -339,6 +339,9 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-205" value="吴总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-199">
           <mxGeometry x="13.5" y="100" width="63" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-265" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-92">
+          <mxGeometry x="140" y="1157" width="15" height="303" as="geometry" />
+        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-101" target="Qtb-9DlkiSXl4W4shPLA-108">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="208.5" as="sourcePoint" />
@@ -436,9 +439,6 @@
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-200" target="Qtb-9DlkiSXl4W4shPLA-199">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-265" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="309" y="1586" width="15" height="303" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
