@@ -232,7 +232,7 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-176" value="1-3天" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
           <mxGeometry x="358" y="218.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-227" value="立项流程&lt;div&gt;（不影响整体进程）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-227" value="立项流程&lt;div&gt;（时间进度不影响整体进程）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
           <mxGeometry x="126.25" y="930.69" width="170" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-91" value="EV" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
