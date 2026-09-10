@@ -515,6 +515,9 @@
         <mxCell id="IhxY8Su1rP2UitkFp2eE-15" value="商务流程阶段：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;加急：&lt;/div&gt;&lt;div&gt;1-2天&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;顺利：&lt;/div&gt;&lt;div&gt;2 - 5 天&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;不顺利：&lt;/div&gt;&lt;div&gt;时间未知&lt;/div&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="1540" width="61" height="201" as="geometry" />
         </mxCell>
+        <mxCell id="IhxY8Su1rP2UitkFp2eE-16" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-799" y="1276" width="1300" height="823" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
