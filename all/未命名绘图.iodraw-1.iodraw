@@ -47,7 +47,7 @@
           <mxGeometry x="20" y="608.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
-          <mxGeometry x="200" y="23" width="200" height="1027" as="geometry">
+          <mxGeometry x="200" y="23" width="360" height="1027" as="geometry">
             <mxRectangle x="200" y="23" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -97,11 +97,11 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-136" value="内部审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
           <mxGeometry x="42.5" y="697" width="90" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
+          <mxGeometry x="-40" y="747" width="400" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-91" value="EV" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry x="400" y="23" width="200" height="1027" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
-          <mxGeometry x="-260" y="740" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-133" value="EV审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
           <mxGeometry x="40" y="757" width="90" height="43" as="geometry" />
