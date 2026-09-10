@@ -88,9 +88,6 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-195" value="1-2天" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="20" y="1165" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-89" source="Qtb-9DlkiSXl4W4shPLA-199" target="Qtb-9DlkiSXl4W4shPLA-207">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-199" value="盖章签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="1147" width="90" height="153" as="geometry">
             <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
@@ -110,35 +107,6 @@
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-200" value="报价单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="1082" width="90" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-89" source="Qtb-9DlkiSXl4W4shPLA-207" target="Qtb-9DlkiSXl4W4shPLA-219">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-207" value="合同签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
-          <mxGeometry x="90" y="1337" width="90" height="283" as="geometry">
-            <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-207" source="Qtb-9DlkiSXl4W4shPLA-208" target="Qtb-9DlkiSXl4W4shPLA-209">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-208" value="法务&lt;div&gt;（1-3天）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
-          <mxGeometry x="13.5" y="40" width="63" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-207" source="Qtb-9DlkiSXl4W4shPLA-209" target="Qtb-9DlkiSXl4W4shPLA-211">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-209" value="马总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
-          <mxGeometry x="13.5" y="100" width="63" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-207" source="Qtb-9DlkiSXl4W4shPLA-211" target="Qtb-9DlkiSXl4W4shPLA-215">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-211" value="吴总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
-          <mxGeometry x="13.5" y="160" width="63" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-215" value="潘总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
-          <mxGeometry x="13.5" y="220" width="63" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-217" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="57" y="1337" width="20" height="283" as="geometry" />
@@ -351,6 +319,32 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-234" value="归档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-92">
           <mxGeometry x="55" y="1847" width="90" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-207" value="合同签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-92">
+          <mxGeometry x="55" y="1327" width="90" height="283" as="geometry">
+            <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-207" source="Qtb-9DlkiSXl4W4shPLA-208" target="Qtb-9DlkiSXl4W4shPLA-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-208" value="法务&lt;div&gt;（1-3天）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
+          <mxGeometry x="13.5" y="40" width="63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-207" source="Qtb-9DlkiSXl4W4shPLA-209" target="Qtb-9DlkiSXl4W4shPLA-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-209" value="马总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
+          <mxGeometry x="13.5" y="100" width="63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-207" source="Qtb-9DlkiSXl4W4shPLA-211" target="Qtb-9DlkiSXl4W4shPLA-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-211" value="吴总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
+          <mxGeometry x="13.5" y="160" width="63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-215" value="潘总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
+          <mxGeometry x="13.5" y="220" width="63" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-101" target="Qtb-9DlkiSXl4W4shPLA-108">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="208.5" as="sourcePoint" />
@@ -437,6 +431,12 @@
               <mxPoint x="100" y="1930" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-199" target="Qtb-9DlkiSXl4W4shPLA-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-207" target="Qtb-9DlkiSXl4W4shPLA-219">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
