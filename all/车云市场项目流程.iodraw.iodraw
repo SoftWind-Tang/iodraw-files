@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-87" value="市场化项目" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-731" y="50" width="1231" height="3740" as="geometry" />
+          <mxGeometry x="-731" y="50" width="1211" height="3740" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-89" value="市场部" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;" parent="Qtb-9DlkiSXl4W4shPLA-87" vertex="1">
-          <mxGeometry y="23" width="1231" height="3717" as="geometry" />
+          <mxGeometry y="23" width="200" height="3717" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Qtb-9DlkiSXl4W4shPLA-89" source="Qtb-9DlkiSXl4W4shPLA-94" target="Qtb-9DlkiSXl4W4shPLA-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,9 +132,6 @@
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-277" value="收款单" style="rounded=0;whiteSpace=wrap;html=1;" parent="Qtb-9DlkiSXl4W4shPLA-89" vertex="1">
           <mxGeometry x="40" y="3076" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IhxY8Su1rP2UitkFp2eE-18" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
-          <mxGeometry x="-79" y="1187" width="1310" height="840" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部/徐律师" style="swimlane;whiteSpace=wrap;html=1;align=center;" parent="Qtb-9DlkiSXl4W4shPLA-87" vertex="1">
           <mxGeometry x="200" y="23" width="450" height="3717" as="geometry">
@@ -511,6 +508,9 @@
         </mxCell>
         <mxCell id="IhxY8Su1rP2UitkFp2eE-13" value="方案验证阶段：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;顺利：&lt;/div&gt;&lt;div&gt;5 - 10 天&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;不顺利：&lt;/div&gt;&lt;div&gt;时间不定&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-801" y="729.5" width="61" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="IhxY8Su1rP2UitkFp2eE-18" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-801" y="760" width="1310" height="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
