@@ -134,7 +134,7 @@
           <mxGeometry x="40" y="3076" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部/徐律师" style="swimlane;whiteSpace=wrap;html=1;align=center;" parent="Qtb-9DlkiSXl4W4shPLA-87" vertex="1">
-          <mxGeometry x="200" y="23" width="1022" height="3717" as="geometry">
+          <mxGeometry x="200" y="23" width="991" height="3717" as="geometry">
             <mxRectangle x="200" y="23" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -235,7 +235,7 @@
           <mxGeometry x="180" y="2087" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="IhxY8Su1rP2UitkFp2eE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
-          <mxGeometry x="-278" y="1193" width="1300" height="823" as="geometry" />
+          <mxGeometry x="-309" y="1077" width="1300" height="840" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-91" value="EV" style="swimlane;whiteSpace=wrap;html=1;" parent="Qtb-9DlkiSXl4W4shPLA-87" vertex="1">
           <mxGeometry x="650" y="23" width="240" height="3717" as="geometry" />
@@ -511,9 +511,6 @@
         </mxCell>
         <mxCell id="IhxY8Su1rP2UitkFp2eE-13" value="方案验证阶段：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;顺利：&lt;/div&gt;&lt;div&gt;5 - 10 天&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;不顺利：&lt;/div&gt;&lt;div&gt;时间未知&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-801" y="650" width="61" height="201" as="geometry" />
-        </mxCell>
-        <mxCell id="IhxY8Su1rP2UitkFp2eE-15" value="商务流程阶段：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;加急：&lt;/div&gt;&lt;div&gt;1-2天&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;顺利：&lt;/div&gt;&lt;div&gt;2 - 5 天&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;不顺利：&lt;/div&gt;&lt;div&gt;时间未知&lt;/div&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="1540" width="61" height="201" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
