@@ -116,8 +116,14 @@
             <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-207" source="Qtb-9DlkiSXl4W4shPLA-208" target="Qtb-9DlkiSXl4W4shPLA-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-208" value="法务&lt;div&gt;（1-3天）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
           <mxGeometry x="13.5" y="40" width="63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-207" source="Qtb-9DlkiSXl4W4shPLA-209" target="Qtb-9DlkiSXl4W4shPLA-211">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-209" value="吴总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-207">
           <mxGeometry x="13.5" y="100" width="63" height="40" as="geometry" />
