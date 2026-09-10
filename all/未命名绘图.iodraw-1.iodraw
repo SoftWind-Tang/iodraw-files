@@ -8,7 +8,7 @@
           <mxGeometry x="-730" y="50" width="1480" height="2720" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-89" value="市场部" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
-          <mxGeometry y="23" width="200" height="2157" as="geometry" />
+          <mxGeometry y="23" width="200" height="2527" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-89" source="Qtb-9DlkiSXl4W4shPLA-94" target="Qtb-9DlkiSXl4W4shPLA-101">
           <mxGeometry relative="1" as="geometry" />
@@ -174,7 +174,7 @@
           <mxGeometry x="90" y="1837" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部/徐律师" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
-          <mxGeometry x="200" y="23" width="450" height="2157" as="geometry">
+          <mxGeometry x="200" y="23" width="450" height="2527" as="geometry">
             <mxRectangle x="200" y="23" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -254,7 +254,7 @@
           <mxGeometry x="96.25" y="1927" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-91" value="EV" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
-          <mxGeometry x="650" y="23" width="240" height="2157" as="geometry" />
+          <mxGeometry x="650" y="23" width="240" height="2527" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-91" source="Qtb-9DlkiSXl4W4shPLA-133" target="Qtb-9DlkiSXl4W4shPLA-154">
           <mxGeometry relative="1" as="geometry" />
