@@ -291,7 +291,7 @@
           <mxGeometry x="55" y="2035" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-207" value="合同签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-92">
-          <mxGeometry x="38" y="1528" width="90" height="283" as="geometry">
+          <mxGeometry x="38" y="1512" width="90" height="283" as="geometry">
             <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -326,7 +326,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-199" value="盖章签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-92">
-          <mxGeometry x="31" y="1277" width="90" height="153" as="geometry">
+          <mxGeometry x="38" y="1277" width="90" height="153" as="geometry">
             <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
