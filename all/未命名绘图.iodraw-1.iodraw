@@ -8,7 +8,7 @@
           <mxGeometry x="-730" y="50" width="1480" height="1690" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-89" value="市场部" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
-          <mxGeometry x="-70" y="23" width="270" height="1557" as="geometry" />
+          <mxGeometry y="23" width="200" height="1557" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-89" source="Qtb-9DlkiSXl4W4shPLA-94" target="Qtb-9DlkiSXl4W4shPLA-101">
           <mxGeometry relative="1" as="geometry" />
