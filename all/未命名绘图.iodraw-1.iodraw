@@ -76,7 +76,7 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-188" value="商务谈判" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="1007" width="90" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-190" value="报价单&lt;div&gt;盖章流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-190" value="盖章流程&lt;div&gt;（报价单）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="1094" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-192" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
