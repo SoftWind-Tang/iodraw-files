@@ -35,7 +35,7 @@
           <mxGeometry x="90" y="414" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-127" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
-          <mxGeometry x="57" y="180" width="20" height="267" as="geometry" />
+          <mxGeometry x="57" y="180" width="20" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-128" value="1-2天" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="20" y="283.5" width="30" height="60" as="geometry" />
@@ -93,7 +93,7 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-124" target="Qtb-9DlkiSXl4W4shPLA-123">
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-124" target="Qtb-9DlkiSXl4W4shPLA-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
