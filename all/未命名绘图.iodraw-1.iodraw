@@ -89,7 +89,7 @@
           <mxGeometry x="20" y="1073.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-199" value="盖章流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
-          <mxGeometry x="80" y="1167" width="110" height="200" as="geometry" />
+          <mxGeometry x="90" y="1147" width="90" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-200" value="报价单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="1082" width="90" height="43" as="geometry" />
