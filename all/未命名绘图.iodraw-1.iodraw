@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-87" value="市场化项目" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="50" width="1480" height="1690" as="geometry" />
+          <mxGeometry x="-730" y="50" width="1480" height="2220" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-89" value="市场部" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry y="23" width="200" height="1557" as="geometry" />
@@ -89,7 +89,9 @@
           <mxGeometry x="20" y="1165" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-199" value="盖章签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
-          <mxGeometry x="90" y="1147" width="90" height="153" as="geometry" />
+          <mxGeometry x="90" y="1147" width="90" height="153" as="geometry">
+            <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-204" value="马总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-199">
           <mxGeometry x="13.5" y="40" width="63" height="40" as="geometry" />
