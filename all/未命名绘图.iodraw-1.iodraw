@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-87" value="市场化项目" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="40" width="1480" height="930" as="geometry" />
+          <mxGeometry x="-730" y="40" width="1480" height="930" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-89" value="市场部" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
           <mxGeometry y="23" width="200" height="467" as="geometry" />
