@@ -64,7 +64,7 @@
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-117" value="推进" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qtb-9DlkiSXl4W4shPLA-116">
           <mxGeometry x="0.1358" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
