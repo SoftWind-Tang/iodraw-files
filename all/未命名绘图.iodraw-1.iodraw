@@ -67,6 +67,9 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-118" value="线索导入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="118.5" width="90" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
