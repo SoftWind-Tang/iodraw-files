@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1969" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3255" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
           <mxGeometry x="20" y="1643.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-90" value="分析部/技术部/徐律师" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-87">
-          <mxGeometry x="200" y="23" width="450" height="1777" as="geometry">
+          <mxGeometry x="200" y="23" width="450" height="2157" as="geometry">
             <mxRectangle x="200" y="23" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
