@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-69" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="120" width="700" height="342" as="geometry" />
+          <mxGeometry x="70" y="120" width="700" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-45" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="Qtb-9DlkiSXl4W4shPLA-69">
           <mxGeometry width="560" height="342" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry y="210" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-31" value="分析部/技术部" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-35">
-          <mxGeometry x="180" width="140" height="682" as="geometry" />
+          <mxGeometry x="140" width="140" height="682" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-32" value="Item 1" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-31">
           <mxGeometry y="30" width="140" height="104" as="geometry" />
