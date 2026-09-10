@@ -278,7 +278,7 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-253" source="Qtb-9DlkiSXl4W4shPLA-255" target="Qtb-9DlkiSXl4W4shPLA-257">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-255" value="准备验收材料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-253">
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-255" value="准备开票材料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-253">
           <mxGeometry x="30" y="43" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-253" source="Qtb-9DlkiSXl4W4shPLA-257" target="Qtb-9DlkiSXl4W4shPLA-258">
