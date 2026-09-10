@@ -82,9 +82,6 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-193" value="时间不定" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="20" y="963.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-195" value="1-2天" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
-          <mxGeometry x="20" y="1165" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-200" value="报价单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-89">
           <mxGeometry x="90" y="1082" width="90" height="43" as="geometry" />
         </mxCell>
@@ -325,6 +322,9 @@
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-263" value="时间不定" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-92">
           <mxGeometry x="160" y="1646.5" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-92" source="Qtb-9DlkiSXl4W4shPLA-199" target="Qtb-9DlkiSXl4W4shPLA-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-199" value="盖章签批流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-92">
           <mxGeometry x="31" y="1277" width="90" height="153" as="geometry">
             <mxRectangle x="90" y="1147" width="110" height="30" as="alternateBounds" />
@@ -423,15 +423,6 @@
             <Array as="points">
               <mxPoint x="990" y="2118" />
               <mxPoint x="100" y="2118" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qtb-9DlkiSXl4W4shPLA-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" target="Qtb-9DlkiSXl4W4shPLA-207">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="1511" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="135" y="1528" />
-              <mxPoint x="973" y="1528" />
             </Array>
           </mxGeometry>
         </mxCell>
