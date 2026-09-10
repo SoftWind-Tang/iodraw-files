@@ -143,7 +143,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-129" target="Qtb-9DlkiSXl4W4shPLA-145">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="623" />
+              <mxPoint x="135" y="623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-149" value="内部审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="780" width="90" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
