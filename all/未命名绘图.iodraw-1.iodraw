@@ -99,7 +99,7 @@
           <mxGeometry x="400" y="23" width="200" height="1027" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
-          <mxGeometry x="60" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="750" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-133" value="EV审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-91">
           <mxGeometry x="40" y="757" width="90" height="43" as="geometry" />
