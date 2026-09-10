@@ -251,7 +251,7 @@
           <mxGeometry x="126.25" y="930.69" width="170" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-236" value="验收流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-90">
-          <mxGeometry x="125" y="1927" width="200" height="200" as="geometry" />
+          <mxGeometry x="125" y="1927" width="200" height="313" as="geometry" />
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-237" value="准备验收材料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qtb-9DlkiSXl4W4shPLA-236">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -368,6 +368,9 @@
         </mxCell>
         <mxCell id="Qtb-9DlkiSXl4W4shPLA-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qtb-9DlkiSXl4W4shPLA-87" source="Qtb-9DlkiSXl4W4shPLA-227" target="Qtb-9DlkiSXl4W4shPLA-184">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qtb-9DlkiSXl4W4shPLA-238" value="准备验收材料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
