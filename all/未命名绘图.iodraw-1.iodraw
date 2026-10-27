@@ -191,7 +191,7 @@
             <mxPoint x="-1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-24" value="徐律合规评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
+        <mxCell id="I8cROWn13_FRT5pySKI2-24" value="徐律&lt;div&gt;合规评估&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="53" y="286" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-36" value="高层汇报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
