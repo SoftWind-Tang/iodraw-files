@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1ebacDFUBnZZTJWzU5id">
-    <mxGraphModel dx="1942" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,6 +246,12 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-129" value="EV报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="187" y="1292.5" width="66" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.565;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90.15000000000009" y="875" as="targetPoint" />
+            <mxPoint x="-250.0000000000001" y="901.74" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室/管理层" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;startSize=23;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="840" y="23" width="270" height="1557" as="geometry" />
         </mxCell>
@@ -370,11 +376,6 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-134" target="I8cROWn13_FRT5pySKI2-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100.00000000000023" y="910" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.565;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-134" target="I8cROWn13_FRT5pySKI2-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="924" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
