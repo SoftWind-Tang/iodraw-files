@@ -171,13 +171,16 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-134" target="I8cROWn13_FRT5pySKI2-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-134" value="谈判" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="60" y="878" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-138" value="POC测试" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="67" y="957" width="66" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-139" target="I8cROWn13_FRT5pySKI2-82">
+        <mxCell id="I8cROWn13_FRT5pySKI2-140" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-139" target="I8cROWn13_FRT5pySKI2-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-139" value="结果" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;dashed=1;dashPattern=1 1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
