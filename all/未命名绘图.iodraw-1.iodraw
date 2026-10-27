@@ -141,6 +141,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-112" value="准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-97">
+          <mxGeometry x="0.4838" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-100" value="&lt;b&gt;合规流程文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="235" y="1057" width="120" height="180" as="geometry" />
         </mxCell>
@@ -160,7 +165,17 @@
           <mxGeometry y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-86" target="I8cROWn13_FRT5pySKI2-101">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="1082" />
+              <mxPoint x="180" y="1102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-113" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-104">
+          <mxGeometry x="0.2409" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="580" y="23" width="200" height="1557" as="geometry" />
