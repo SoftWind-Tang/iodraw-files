@@ -99,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-78" value="POC测试" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="63.5" y="837" width="73" height="40" as="geometry" />
+          <mxGeometry x="63.5" y="827" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-82" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;正式合作内容&lt;/b&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="30" y="1124" width="140" height="150" as="geometry" />
