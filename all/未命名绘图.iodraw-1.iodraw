@@ -107,7 +107,7 @@
           <mxGeometry x="121" y="427" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-69" value="合规建议" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
-          <mxGeometry x="45" y="727" width="110" height="120" as="geometry" />
+          <mxGeometry x="38" y="707" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-70" value="1. 授权链路" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-69">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
@@ -200,6 +200,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-65" target="I8cROWn13_FRT5pySKI2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-71" target="I8cROWn13_FRT5pySKI2-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
