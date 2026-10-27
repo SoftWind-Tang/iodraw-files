@@ -117,16 +117,13 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-92" value="&lt;b&gt;商务流程文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="210" y="947" width="140" height="120" as="geometry" />
+          <mxGeometry x="210" y="947" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-93" value="《合同》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-92">
+        <mxCell id="I8cROWn13_FRT5pySKI2-93" value="《合同》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-92">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-94" value="《审批表》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-92">
+        <mxCell id="I8cROWn13_FRT5pySKI2-94" value="《审批表》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-92">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-95" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-92">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="560" y="23" width="200" height="1557" as="geometry" />
