@@ -213,10 +213,10 @@
           <mxGeometry y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-89" value="蒋律审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
-          <mxGeometry x="49" y="975.5" width="66" height="33" as="geometry" />
+          <mxGeometry x="42" y="975.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-106" value="徐律审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
-          <mxGeometry x="49" y="1115.5" width="66" height="33" as="geometry" />
+          <mxGeometry x="42" y="1115.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室/管理层" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;startSize=23;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="810" y="23" width="270" height="1557" as="geometry" />
