@@ -39,7 +39,7 @@
           <mxGeometry x="67" y="1267" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-3" value="市场部" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
-          <mxGeometry x="200" y="30" width="360" height="1550" as="geometry" />
+          <mxGeometry x="200" y="23" width="370" height="1557" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-6" target="I8cROWn13_FRT5pySKI2-9">
           <mxGeometry relative="1" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
-          <mxGeometry x="573" y="23" width="200" height="1557" as="geometry" />
+          <mxGeometry x="570" y="23" width="200" height="1557" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="I8cROWn13_FRT5pySKI2-4" source="I8cROWn13_FRT5pySKI2-24" target="I8cROWn13_FRT5pySKI2-36">
           <mxGeometry relative="1" as="geometry" />
