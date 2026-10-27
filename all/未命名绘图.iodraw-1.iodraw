@@ -104,7 +104,7 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-82" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;正式合作内容&lt;/b&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="30" y="917" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-83" value="1. 合同" style="text;strokeColor=#0d15e7;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-82">
+        <mxCell id="I8cROWn13_FRT5pySKI2-83" value="1. 合同条款" style="text;strokeColor=#0d15e7;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-82">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-84" value="2. 技术方案与交付周期" style="text;strokeColor=#0d15e7;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-82">
