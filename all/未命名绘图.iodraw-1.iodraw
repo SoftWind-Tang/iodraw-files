@@ -75,7 +75,7 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-4" source="I8cROWn13_FRT5pySKI2-24" target="I8cROWn13_FRT5pySKI2-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-37">
+        <mxCell id="I8cROWn13_FRT5pySKI2-38" value="风险过高" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-37">
           <mxGeometry x="0.0342" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
