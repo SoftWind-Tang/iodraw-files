@@ -171,8 +171,8 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-134" value="需求评估" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="60" y="905" width="80" height="47" as="geometry" />
+        <mxCell id="I8cROWn13_FRT5pySKI2-134" value="谈判" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
+          <mxGeometry x="60" y="883" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="580" y="23" width="260" height="1557" as="geometry" />
