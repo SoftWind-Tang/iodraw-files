@@ -230,7 +230,7 @@
           <mxGeometry x="187" y="1115.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室/管理层" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;startSize=23;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
-          <mxGeometry x="846" y="23" width="270" height="1557" as="geometry" />
+          <mxGeometry x="840" y="23" width="270" height="1557" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-52" value="拒绝" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#ff0000;" edge="1" parent="I8cROWn13_FRT5pySKI2-5" source="I8cROWn13_FRT5pySKI2-46" target="I8cROWn13_FRT5pySKI2-54">
           <mxGeometry relative="1" as="geometry">
