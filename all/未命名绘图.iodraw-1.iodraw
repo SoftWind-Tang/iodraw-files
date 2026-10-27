@@ -69,14 +69,11 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-18" value="5. 授权链路与《隐私政策》" style="text;strokeColor=#0d15e7;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-13">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-41" target="I8cROWn13_FRT5pySKI2-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-41" value="《商机信息收集表》审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="40" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-56" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="40" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="I8cROWn13_FRT5pySKI2-58" value="商机关闭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
+          <mxGeometry x="50" y="767" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="400" y="23" width="200" height="1217" as="geometry" />
