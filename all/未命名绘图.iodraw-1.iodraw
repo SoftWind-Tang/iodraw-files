@@ -191,13 +191,13 @@
             <mxPoint x="-1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-24" value="合规评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
+        <mxCell id="I8cROWn13_FRT5pySKI2-24" value="徐律合规评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="53" y="286" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-36" value="高层汇报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="121" y="427" width="66" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-69" value="合规建议" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
+        <mxCell id="I8cROWn13_FRT5pySKI2-69" value="徐律合规建议" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="38" y="695" width="110" height="180" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-75" value="1. 建议合作数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-69">
