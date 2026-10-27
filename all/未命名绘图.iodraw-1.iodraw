@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-141" value="达成一致" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-134" target="I8cROWn13_FRT5pySKI2-138">
-          <mxGeometry x="-0.907" relative="1" as="geometry">
+          <mxGeometry x="0.0233" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="947" />
               <mxPoint x="100" y="947" />
