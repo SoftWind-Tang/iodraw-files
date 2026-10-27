@@ -216,7 +216,9 @@
           <mxGeometry x="42" y="975.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-130" value="抄送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-4" source="I8cROWn13_FRT5pySKI2-106" target="I8cROWn13_FRT5pySKI2-129">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-106" value="徐律审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="42" y="1115.5" width="66" height="33" as="geometry" />
