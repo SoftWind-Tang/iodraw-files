@@ -73,7 +73,7 @@
           <mxGeometry x="400" y="23" width="200" height="897" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-24" value="合规评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
-          <mxGeometry x="60" y="286" width="80" height="47" as="geometry" />
+          <mxGeometry x="53" y="286" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-36" value="高层汇报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="121" y="427" width="66" height="33" as="geometry" />
