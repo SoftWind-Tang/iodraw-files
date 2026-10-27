@@ -106,6 +106,15 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-36" value="高层汇报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="121" y="427" width="66" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-69" value="EV反馈" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
+          <mxGeometry x="45" y="727" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-70" value="1. 开发排期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-69">
+          <mxGeometry y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-71" value="2. 开发周期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-69">
+          <mxGeometry y="60" width="110" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室/管理层" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;startSize=23;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="600" y="23" width="270" height="1217" as="geometry" />
         </mxCell>
@@ -189,15 +198,6 @@
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-65" target="I8cROWn13_FRT5pySKI2-58">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-69" value="EV反馈" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="868" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-70" value="1. 开发排期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-69">
-          <mxGeometry y="30" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-71" value="2. 开发周期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-69">
-          <mxGeometry y="60" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
