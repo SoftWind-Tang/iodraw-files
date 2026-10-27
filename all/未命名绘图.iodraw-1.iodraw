@@ -61,6 +61,9 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="法务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="400" y="23" width="200" height="897" as="geometry" />
         </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-24" value="合规评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
+          <mxGeometry x="60" y="286" width="80" height="47" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="600" y="23" width="200" height="897" as="geometry" />
         </mxCell>
