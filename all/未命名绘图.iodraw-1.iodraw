@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1ebacDFUBnZZTJWzU5id">
-    <mxGraphModel dx="1765" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="883" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
           <mxGeometry x="10" y="427" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-64" value="EV反馈" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-2">
-          <mxGeometry x="45" y="756" width="110" height="90" as="geometry" />
+          <mxGeometry x="45" y="781" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-65" value="1. 开发排期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-64">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
@@ -36,7 +36,7 @@
           <mxGeometry y="60" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-110" value="徐律审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-2">
-          <mxGeometry x="67" y="1462" width="66" height="33" as="geometry" />
+          <mxGeometry x="67" y="1487" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-3" value="市场部" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="200" y="23" width="380" height="1557" as="geometry" />
@@ -81,24 +81,24 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-18" value="5. 授权链路与《隐私政策》" style="text;strokeColor=#0d15e7;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-13">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-59" value="流程审批&amp;amp;CRM上传" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" target="I8cROWn13_FRT5pySKI2-58">
+        <mxCell id="I8cROWn13_FRT5pySKI2-59" value="流程审批&amp;amp;CRM上传" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-61" target="I8cROWn13_FRT5pySKI2-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="681" as="sourcePoint" />
+            <mxPoint x="100" y="706" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-58" value="方案沟通" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="63.5" y="781" width="73" height="40" as="geometry" />
+          <mxGeometry x="63.5" y="806" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-61" value="《商机信息收集表》&lt;div&gt;填写&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="45" y="640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-58" target="I8cROWn13_FRT5pySKI2-134">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="99.99999999999977" y="868" as="sourcePoint" />
+            <mxPoint x="99.99999999999977" y="893" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-82" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;正式合作内容&lt;/b&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="30" y="1125" width="140" height="150" as="geometry" />
+          <mxGeometry x="30" y="1150" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-83" value="1. 合同条款" style="text;strokeColor=#0d15e7;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-82">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-92" value="&lt;b&gt;商务流程文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="235" y="1125" width="120" height="90" as="geometry" />
+          <mxGeometry x="235" y="1150" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-93" value="《合同》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-92">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
@@ -127,8 +127,8 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-85" target="I8cROWn13_FRT5pySKI2-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="1230" />
-              <mxPoint x="180" y="1170" />
+              <mxPoint x="180" y="1255" />
+              <mxPoint x="180" y="1195" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-100" value="&lt;b&gt;合规流程文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="235" y="1235" width="120" height="220" as="geometry" />
+          <mxGeometry x="235" y="1260" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-101" value="《项目情况说明》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-100">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
@@ -161,8 +161,8 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-86" target="I8cROWn13_FRT5pySKI2-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="1260" />
-              <mxPoint x="180" y="1280" />
+              <mxPoint x="180" y="1285" />
+              <mxPoint x="180" y="1305" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -174,20 +174,20 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-141" value="达成一致" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-134" target="I8cROWn13_FRT5pySKI2-138">
           <mxGeometry x="-0.0435" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="948" />
-              <mxPoint x="100" y="948" />
+              <mxPoint x="100" y="973" />
+              <mxPoint x="100" y="973" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-134" value="谈判" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="60" y="879" width="80" height="47" as="geometry" />
+          <mxGeometry x="60" y="904" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-138" target="I8cROWn13_FRT5pySKI2-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-138" value="POC测试" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="67" y="972" width="66" height="33" as="geometry" />
+          <mxGeometry x="67" y="997" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-140" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-139" target="I8cROWn13_FRT5pySKI2-82">
           <mxGeometry x="-0.0588" relative="1" as="geometry">
@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-139" value="结果" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;dashed=1;dashPattern=1 1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="60" y="1030" width="80" height="47" as="geometry" />
+          <mxGeometry x="60" y="1055" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="580" y="23" width="260" height="1557" as="geometry" />
@@ -215,7 +215,7 @@
           <mxGeometry x="121" y="427" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-69" value="徐律合规建议" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
-          <mxGeometry x="38" y="696" width="110" height="180" as="geometry" />
+          <mxGeometry x="38" y="721" width="110" height="180" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-75" value="1. 建议合作数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-69">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
@@ -233,7 +233,7 @@
           <mxGeometry y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-89" value="蒋律审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
-          <mxGeometry x="52" y="1153.5" width="66" height="33" as="geometry" />
+          <mxGeometry x="52" y="1178.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-130" value="抄送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-4" source="I8cROWn13_FRT5pySKI2-106" target="I8cROWn13_FRT5pySKI2-129">
           <mxGeometry x="-0.0833" relative="1" as="geometry">
@@ -241,10 +241,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-106" value="徐律审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
-          <mxGeometry x="52" y="1293.5" width="66" height="33" as="geometry" />
+          <mxGeometry x="52" y="1318.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-129" value="EV报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
-          <mxGeometry x="187" y="1293.5" width="66" height="33" as="geometry" />
+          <mxGeometry x="187" y="1318.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室/管理层" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;startSize=23;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="840" y="23" width="270" height="1557" as="geometry" />
@@ -369,7 +369,7 @@
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-134" target="I8cROWn13_FRT5pySKI2-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100.00000000000023" y="911" as="targetPoint" />
+            <mxPoint x="100.00000000000023" y="936" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-148" value="反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-144">
