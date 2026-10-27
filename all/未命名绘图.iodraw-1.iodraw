@@ -12,6 +12,9 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-2" value="分析部" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry y="23" width="200" height="897" as="geometry" />
         </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-2">
+          <mxGeometry x="60" y="283" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-3" value="市场部" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
           <mxGeometry x="200" y="23" width="200" height="897" as="geometry" />
         </mxCell>
