@@ -21,6 +21,9 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-6" value="线索导入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="67" y="37" width="66" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-9" target="I8cROWn13_FRT5pySKI2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-9" value="需求沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="67" y="97" width="66" height="33" as="geometry" />
         </mxCell>
