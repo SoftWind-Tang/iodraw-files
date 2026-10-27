@@ -147,7 +147,7 @@
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-45" value="授权合规" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-43">
           <mxGeometry x="-0.5935" relative="1" as="geometry">
-            <mxPoint y="-78" as="offset" />
+            <mxPoint y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-34" target="I8cROWn13_FRT5pySKI2-46">
