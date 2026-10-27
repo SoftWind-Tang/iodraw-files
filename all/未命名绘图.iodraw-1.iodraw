@@ -83,13 +83,19 @@
             <mxPoint x="110" y="687" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-58" target="I8cROWn13_FRT5pySKI2-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-58" value="方案沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="63.5" y="750" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-61" value="《商机信息收集表》&lt;div&gt;填写&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="45" y="640" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-78" value="方案沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
+        <mxCell id="I8cROWn13_FRT5pySKI2-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-78" target="I8cROWn13_FRT5pySKI2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8cROWn13_FRT5pySKI2-78" value="方案沟通" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="63.5" y="837" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="I8cROWn13_FRT5pySKI2-1">
