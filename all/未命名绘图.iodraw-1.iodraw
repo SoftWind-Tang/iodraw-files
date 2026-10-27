@@ -382,7 +382,7 @@
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-149" value="反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-146">
           <mxGeometry x="-0.8522" relative="1" as="geometry">
-            <mxPoint x="13" as="offset" />
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
