@@ -18,7 +18,7 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-6" target="I8cROWn13_FRT5pySKI2-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-22" value="商机录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-10">
+        <mxCell id="I8cROWn13_FRT5pySKI2-22" value="CRM商机录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8cROWn13_FRT5pySKI2-10">
           <mxGeometry x="-0.0351" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
