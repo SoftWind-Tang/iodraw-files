@@ -48,7 +48,7 @@
           <mxGeometry x="76" y="1733" width="76" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-3" value="市场部" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
-          <mxGeometry x="210" y="23" width="280" height="2847" as="geometry" />
+          <mxGeometry x="210" y="23" width="280" height="2987" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-6" target="I8cROWn13_FRT5pySKI2-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -215,7 +215,7 @@
           <mxGeometry y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
-          <mxGeometry x="490" y="23" width="290" height="2757" as="geometry" />
+          <mxGeometry x="490" y="23" width="290" height="2987" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-24" value="徐律&lt;div style=&quot;font-size: 10px;&quot;&gt;合规评估&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="I8cROWn13_FRT5pySKI2-4" vertex="1">
           <mxGeometry x="77" y="286" width="80" height="47" as="geometry" />
