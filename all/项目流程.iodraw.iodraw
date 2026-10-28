@@ -56,6 +56,9 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-119" value="立项资料归档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-2">
           <mxGeometry x="52" y="2867" width="103" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-121" value="分析部支持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-2">
+          <mxGeometry x="89" y="2584" width="76" height="33" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-3" value="市场部" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
           <mxGeometry x="210" y="23" width="280" height="3527" as="geometry" />
         </mxCell>
