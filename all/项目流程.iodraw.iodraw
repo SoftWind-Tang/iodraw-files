@@ -252,16 +252,6 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-57" value="蒋律审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="11" y="1897" width="66" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-4" target="1aUoQaB9tQkw4oGwF-Xe-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-66" y="1913.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-59" value="邮件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1aUoQaB9tQkw4oGwF-Xe-58">
-          <mxGeometry x="-0.0184" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室/管理层" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;startSize=23;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
           <mxGeometry x="780" y="23" width="280" height="2517" as="geometry" />
         </mxCell>
@@ -456,6 +446,16 @@
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-55" value="不尽如人意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1aUoQaB9tQkw4oGwF-Xe-54">
           <mxGeometry x="-0.8139" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" target="1aUoQaB9tQkw4oGwF-Xe-57" source="1aUoQaB9tQkw4oGwF-Xe-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="1936.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-59" value="邮件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1aUoQaB9tQkw4oGwF-Xe-58">
+          <mxGeometry x="-0.0184" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
