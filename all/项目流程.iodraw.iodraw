@@ -279,14 +279,6 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-139" value="供应商报价材料" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-133">
           <mxGeometry y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-144" target="1aUoQaB9tQkw4oGwF-Xe-183">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="192" y="3247" />
-              <mxPoint x="192" y="3247" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-144" value="市场部签批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="170" y="3202" width="110" height="33" as="geometry" />
         </mxCell>
@@ -367,7 +359,8 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-221" target="1aUoQaB9tQkw4oGwF-Xe-218">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="222" y="3370" />
+              <mxPoint x="230" y="3370" />
+              <mxPoint x="230" y="3442" />
             </Array>
           </mxGeometry>
         </mxCell>
