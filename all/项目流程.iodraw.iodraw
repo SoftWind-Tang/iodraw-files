@@ -593,8 +593,8 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-197" value="马总签批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-188">
           <mxGeometry x="12" y="40" width="66" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-237" value="发票签批" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-5">
-          <mxGeometry x="170" y="3620" width="90" height="332" as="geometry" />
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-237" value="付款签批" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-5">
+          <mxGeometry x="170" y="3622" width="90" height="330" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1aUoQaB9tQkw4oGwF-Xe-237" source="1aUoQaB9tQkw4oGwF-Xe-239" target="1aUoQaB9tQkw4oGwF-Xe-241">
           <mxGeometry relative="1" as="geometry" />
@@ -869,6 +869,9 @@
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="1aUoQaB9tQkw4oGwF-Xe-235" target="1aUoQaB9tQkw4oGwF-Xe-237">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-248" value="市场部签批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="607" y="3714" width="110" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
