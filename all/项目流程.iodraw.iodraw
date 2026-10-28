@@ -356,6 +356,9 @@
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-110" target="1aUoQaB9tQkw4oGwF-Xe-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-150" value="&lt;b&gt;商务流程文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="635" y="2410" width="120" height="90" as="geometry" />
         </mxCell>
