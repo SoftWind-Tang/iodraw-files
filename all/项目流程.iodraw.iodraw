@@ -309,6 +309,9 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-185" value="高层汇报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="112" y="3334" width="76" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-199" target="1aUoQaB9tQkw4oGwF-Xe-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-199" value="项目验收完毕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="101" y="3557" width="98" height="33" as="geometry" />
         </mxCell>
@@ -444,7 +447,7 @@
           <mxGeometry x="12" y="280" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-92" value="用印签批" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-5">
-          <mxGeometry x="160" y="2057" width="102" height="610" as="geometry" />
+          <mxGeometry x="160" y="2057" width="102" height="333" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1aUoQaB9tQkw4oGwF-Xe-92" source="1aUoQaB9tQkw4oGwF-Xe-94" target="1aUoQaB9tQkw4oGwF-Xe-96">
           <mxGeometry relative="1" as="geometry" />
