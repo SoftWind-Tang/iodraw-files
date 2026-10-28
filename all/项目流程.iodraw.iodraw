@@ -207,7 +207,7 @@
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="2033.8888888888887" as="targetPoint" />
+            <mxPoint x="600" y="2017" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-60" value="市场部签批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
