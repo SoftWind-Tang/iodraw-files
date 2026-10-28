@@ -114,7 +114,7 @@
             <mxPoint x="133" y="706" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-58" value="方案沟通" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
+        <mxCell id="I8cROWn13_FRT5pySKI2-58" value="内部方案沟通" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="96.5" y="806" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-61" value="《商机信息收集表》&lt;div&gt;填写&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
@@ -907,6 +907,15 @@
             <mxPoint as="offset" />
             <mxPoint x="43" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rbHLQywO9aBLm_pEDW-F-1" value="EV反馈" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="914" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rbHLQywO9aBLm_pEDW-F-2" value="1. 开发排期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rbHLQywO9aBLm_pEDW-F-1">
+          <mxGeometry y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbHLQywO9aBLm_pEDW-F-3" value="2. 开发周期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rbHLQywO9aBLm_pEDW-F-1">
+          <mxGeometry y="60" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
