@@ -352,7 +352,7 @@
           <mxGeometry x="66" y="3337" width="184" height="33" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-235" value="市场部签批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="170" y="3581" width="110" height="33" as="geometry" />
+          <mxGeometry x="167" y="3581" width="110" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
           <mxGeometry x="500" y="23" width="290" height="4487" as="geometry" />
