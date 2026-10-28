@@ -158,7 +158,7 @@
           <mxGeometry x="93" y="1055" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-7" value="&lt;b&gt;合规流程文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="73" y="1657" width="120" height="220" as="geometry" />
+          <mxGeometry x="73" y="1667" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-8" value="《项目情况说明》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-7">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
@@ -213,7 +213,7 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-74" value="5. 保密协议" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-69" vertex="1">
           <mxGeometry y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-130" value="抄送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="I8cROWn13_FRT5pySKI2-4" source="I8cROWn13_FRT5pySKI2-106" target="I8cROWn13_FRT5pySKI2-129" edge="1">
+        <mxCell id="I8cROWn13_FRT5pySKI2-130" value="沟通" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="I8cROWn13_FRT5pySKI2-4" source="I8cROWn13_FRT5pySKI2-106" target="I8cROWn13_FRT5pySKI2-129" edge="1">
           <mxGeometry x="-0.0833" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
