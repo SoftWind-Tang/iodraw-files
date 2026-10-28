@@ -259,7 +259,7 @@
           <mxGeometry x="35" y="1897" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室/管理层" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;startSize=23;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
-          <mxGeometry x="780" y="50" width="280" height="2517" as="geometry" />
+          <mxGeometry x="780" y="23" width="280" height="2517" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-52" value="拒绝" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#ff0000;" parent="I8cROWn13_FRT5pySKI2-5" source="I8cROWn13_FRT5pySKI2-46" target="I8cROWn13_FRT5pySKI2-54" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -279,7 +279,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-51" value="高层评估" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-5">
-          <mxGeometry x="60" y="1817" width="80" height="47" as="geometry" />
+          <mxGeometry x="60" y="1847" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-52" value="高层汇报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-5">
           <mxGeometry x="67" y="1731" width="66" height="33" as="geometry" />
