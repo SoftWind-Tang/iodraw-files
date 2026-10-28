@@ -89,7 +89,7 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-58" value="方案沟通" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="96.5" y="806" width="73" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-61" value="《商机信息收集表》&lt;div&gt;填写&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
+        <mxCell id="I8cROWn13_FRT5pySKI2-61" value="《商机信息收集表》&lt;div&gt;填写&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="78" y="640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-58" target="I8cROWn13_FRT5pySKI2-134" edge="1">
