@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I8cROWn13_FRT5pySKI2-1" value="项目流程" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="230" y="100" width="1080" height="4550" as="geometry">
+          <mxGeometry x="230" y="100" width="1080" height="4260" as="geometry">
             <mxRectangle x="240" y="110" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
