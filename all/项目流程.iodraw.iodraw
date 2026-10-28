@@ -590,7 +590,7 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-194" value="财务开票" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-188">
           <mxGeometry x="12" y="220" width="66" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-195" value="用印归档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-188">
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-195" value="收款开票" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-188">
           <mxGeometry x="12" y="280" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1aUoQaB9tQkw4oGwF-Xe-188" source="1aUoQaB9tQkw4oGwF-Xe-197" target="1aUoQaB9tQkw4oGwF-Xe-190">
