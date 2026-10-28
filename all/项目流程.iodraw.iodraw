@@ -898,10 +898,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-35" value="无法满足" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;fontColor=#ff0000;" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-23" target="I8cROWn13_FRT5pySKI2-54" edge="1">
-          <mxGeometry x="0.1074" relative="1" as="geometry">
+          <mxGeometry x="-0.8752" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="43" y="332" />
-              <mxPoint x="43" y="523" />
+              <mxPoint x="43" y="490" />
+              <mxPoint x="1030" y="490" />
             </Array>
             <mxPoint as="offset" />
             <mxPoint x="43" y="450" as="targetPoint" />
