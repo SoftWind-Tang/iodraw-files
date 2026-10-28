@@ -310,14 +310,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-106" target="I8cROWn13_FRT5pySKI2-110" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-133" value="抄送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I8cROWn13_FRT5pySKI2-111" vertex="1" connectable="0">
-          <mxGeometry x="-0.8461" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-134" target="I8cROWn13_FRT5pySKI2-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100.00000000000023" y="936" as="targetPoint" />
