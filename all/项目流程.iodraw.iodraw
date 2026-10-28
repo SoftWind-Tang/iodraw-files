@@ -193,7 +193,7 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-38" value="&lt;b&gt;合同商务文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="73" y="1829" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-39" value="《项目情况说明》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-38">
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-39" value="《合同》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-38">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-40" value="《&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: Tahoma, Arial, STHeitiSC-Light, SimSun, 宋体, &amp;quot;Songti SC&amp;quot;, 宋体-简, -apple-system, BlinkMacSystemFont, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;合规审批表&lt;/span&gt;》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-38">
@@ -463,11 +463,6 @@
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-152" value="《合同审批表》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-150" vertex="1">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="I8cROWn13_FRT5pySKI2-151" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="2875" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-156" value="蒋律审核" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1202" y="2858.5" width="66" height="33" as="geometry" />
