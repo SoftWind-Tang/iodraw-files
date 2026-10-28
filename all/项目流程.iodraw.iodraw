@@ -252,7 +252,7 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-135" value="《外采合同&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: Tahoma, Arial, STHeitiSC-Light, SimSun, 宋体, &amp;quot;Songti SC&amp;quot;, 宋体-简, -apple-system, BlinkMacSystemFont, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;审批表&lt;/span&gt;》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-133">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-136" value="报价盖章" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-133">
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-136" value="《三方比价材料》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-133">
           <mxGeometry y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
