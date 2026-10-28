@@ -154,11 +154,6 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-138" value="POC测试" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="100" y="997" width="66" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="I8cROWn13_FRT5pySKI2-140" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-139" target="I8cROWn13_FRT5pySKI2-82" edge="1">
-          <mxGeometry x="-0.0588" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-139" value="结果" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;dashed=1;dashPattern=1 1;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="93" y="1055" width="80" height="47" as="geometry" />
         </mxCell>
