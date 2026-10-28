@@ -97,7 +97,7 @@
             <mxPoint x="99.99999999999977" y="893" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-82" target="I8cROWn13_FRT5pySKI2-101">
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-82" target="I8cROWn13_FRT5pySKI2-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-82" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;正式合作内容&lt;/b&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
