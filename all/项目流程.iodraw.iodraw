@@ -36,7 +36,7 @@
           <mxGeometry y="60" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-110" value="分析部签批" style="rounded=1;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-2" vertex="1">
-          <mxGeometry x="74" y="1427" width="66" height="33" as="geometry" />
+          <mxGeometry x="74" y="1427" width="76" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-3" value="市场部" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
           <mxGeometry x="200" y="23" width="280" height="2087" as="geometry" />
@@ -120,6 +120,11 @@
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-101" value="《项目情况说明》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-100" vertex="1">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-100" source="I8cROWn13_FRT5pySKI2-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-113" y="80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-102" value="《&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: Tahoma, Arial, STHeitiSC-Light, SimSun, 宋体, &amp;quot;Songti SC&amp;quot;, 宋体-简, -apple-system, BlinkMacSystemFont, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;合规审批表&lt;/span&gt;》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-100" vertex="1">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
