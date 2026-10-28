@@ -461,6 +461,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-46" value="分析部报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="1442" width="76" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
