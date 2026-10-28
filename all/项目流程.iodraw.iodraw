@@ -190,6 +190,9 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-34" value="结果" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;dashed=1;dashPattern=1 1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="93" y="1724" width="80" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-38" target="1aUoQaB9tQkw4oGwF-Xe-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-38" value="&lt;b&gt;合同商务文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="73" y="1839" width="120" height="120" as="geometry" />
         </mxCell>
