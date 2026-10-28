@@ -227,6 +227,9 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-129" value="EV报备" style="rounded=1;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-4" vertex="1">
           <mxGeometry x="188" y="1427" width="66" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-4" source="1aUoQaB9tQkw4oGwF-Xe-5" target="1aUoQaB9tQkw4oGwF-Xe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-5" value="徐律签批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-4">
           <mxGeometry x="53" y="1497" width="66" height="33" as="geometry" />
         </mxCell>
