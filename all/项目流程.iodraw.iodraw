@@ -341,7 +341,7 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-219" value="《付款审批单》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-218">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-220" value="《验收材料》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-218">
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-220" value="《供应商合同》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-218">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-221" target="1aUoQaB9tQkw4oGwF-Xe-176">
