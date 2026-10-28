@@ -163,7 +163,7 @@
           <mxGeometry x="93" y="1055" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
-          <mxGeometry x="580" y="23" width="260" height="2097" as="geometry" />
+          <mxGeometry x="579" y="23" width="260" height="2097" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" parent="I8cROWn13_FRT5pySKI2-4" source="I8cROWn13_FRT5pySKI2-24" target="I8cROWn13_FRT5pySKI2-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="187" y="1318.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-5" value="办公室/管理层" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;startSize=23;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
-          <mxGeometry x="840" y="23" width="270" height="2157" as="geometry" />
+          <mxGeometry x="839" y="23" width="270" height="2157" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-52" value="拒绝" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#ff0000;" parent="I8cROWn13_FRT5pySKI2-5" source="I8cROWn13_FRT5pySKI2-46" target="I8cROWn13_FRT5pySKI2-54" edge="1">
           <mxGeometry relative="1" as="geometry">
