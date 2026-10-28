@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1ebacDFUBnZZTJWzU5id">
-    <mxGraphModel dx="883" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="422" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,7 +297,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-176" value="&lt;b&gt;项目验收文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="26" y="3442" width="120" height="90" as="geometry" />
+          <mxGeometry x="23" y="3442" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-177" value="《验收表》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-176">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
@@ -315,18 +315,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-199" value="项目验收完毕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="37" y="3581" width="98" height="33" as="geometry" />
+          <mxGeometry x="34" y="3581" width="98" height="33" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-201" target="1aUoQaB9tQkw4oGwF-Xe-206">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="86" y="3797" />
-              <mxPoint x="156" y="3797" />
+              <mxPoint x="83" y="3797" />
+              <mxPoint x="153" y="3797" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-201" value="&lt;b&gt;开票文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="26" y="3652" width="120" height="120" as="geometry" />
+          <mxGeometry x="23" y="3652" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-202" value="《验收表（签字版）》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-201">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
@@ -338,18 +338,18 @@
           <mxGeometry y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-206" value="市场部签批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="31" y="3821" width="249" height="33" as="geometry" />
+          <mxGeometry x="28" y="3821" width="249" height="33" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-218" target="1aUoQaB9tQkw4oGwF-Xe-206">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="225" y="3797" />
-              <mxPoint x="155" y="3797" />
+              <mxPoint x="222" y="3797" />
+              <mxPoint x="152" y="3797" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-218" value="&lt;b&gt;供应商付款文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
-          <mxGeometry x="165" y="3442" width="120" height="90" as="geometry" />
+          <mxGeometry x="162" y="3442" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-219" value="《付款审批单》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-218">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
