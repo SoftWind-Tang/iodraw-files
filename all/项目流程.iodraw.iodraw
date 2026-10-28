@@ -337,6 +337,11 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-205" value="《收款审核单》" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1aUoQaB9tQkw4oGwF-Xe-201">
           <mxGeometry y="90" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-206">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="3837.7058823529414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-206" value="市场部签批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="31" y="3821" width="249" height="33" as="geometry" />
         </mxCell>
