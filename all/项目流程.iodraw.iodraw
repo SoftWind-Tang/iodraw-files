@@ -47,6 +47,9 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-48" value="EV开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-2">
           <mxGeometry x="76" y="1733" width="76" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-2" source="1aUoQaB9tQkw4oGwF-Xe-116" target="1aUoQaB9tQkw4oGwF-Xe-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-116" value="&lt;b&gt;立项流程文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="I8cROWn13_FRT5pySKI2-2">
           <mxGeometry x="45" y="2617" width="120" height="90" as="geometry" />
         </mxCell>
