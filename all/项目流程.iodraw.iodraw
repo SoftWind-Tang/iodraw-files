@@ -1141,11 +1141,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-5" value="线索导入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="170" y="150" width="60" height="80" as="geometry" />
+          <mxGeometry x="-210" y="150" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="706" as="sourcePoint" />
+            <mxPoint x="-200" y="706" as="sourcePoint" />
             <mxPoint x="1400" y="706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
