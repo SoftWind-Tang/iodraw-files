@@ -332,11 +332,6 @@
             <mxPoint x="140" y="977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-134">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="768" y="1007" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-134" value="客户侧方案&lt;div&gt;沟通&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="93" y="904" width="80" height="47" as="geometry" />
         </mxCell>
@@ -1145,6 +1140,16 @@
             <Array as="points">
               <mxPoint x="400" y="1505" />
               <mxPoint x="400" y="1098" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-1" source="I8cROWn13_FRT5pySKI2-134" target="TAs66nJV3eypl2slIgqz-133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="1010" />
+              <mxPoint x="907" y="1010" />
+              <mxPoint x="907" y="1026" />
             </Array>
           </mxGeometry>
         </mxCell>
