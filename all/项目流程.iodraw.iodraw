@@ -270,6 +270,9 @@
             <mxPoint x="133" y="706" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="I8cROWn13_FRT5pySKI2-58" target="TAs66nJV3eypl2slIgqz-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-58" value="内部方案沟通" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="78" y="806" width="110" height="40" as="geometry" />
         </mxCell>
@@ -556,7 +559,7 @@
         <mxCell id="ru-OGpy8upX6MNDKdikP-136" value="项目交付计划" style="rounded=1;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="78" y="1307" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-54" value="需求确定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
+        <mxCell id="TAs66nJV3eypl2slIgqz-54" value="利润评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-3">
           <mxGeometry x="95" y="857" width="76" height="33" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-4" value="徐律/蒋律" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
