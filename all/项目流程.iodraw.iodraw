@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1ebacDFUBnZZTJWzU5id">
-    <mxGraphModel dx="4428" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3148" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1231,7 +1231,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-161" value="交付验收" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="3190" width="60" height="650" as="geometry" />
+          <mxGeometry x="-210" y="3190" width="60" height="2120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
