@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-2" value="分析部/EV开发" style="swimlane;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="I8cROWn13_FRT5pySKI2-1" vertex="1">
-          <mxGeometry x="150" y="23" width="200" height="5197" as="geometry" />
+          <mxGeometry y="23" width="350" height="5197" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-23" value="能力评估&lt;div&gt;是否满足&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="I8cROWn13_FRT5pySKI2-2" vertex="1">
           <mxGeometry x="60" y="286" width="80" height="47" as="geometry" />
