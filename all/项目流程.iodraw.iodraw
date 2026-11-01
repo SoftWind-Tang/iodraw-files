@@ -381,7 +381,7 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-40" value="2. 《合同&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: Tahoma, Arial, STHeitiSC-Light, SimSun, 宋体, &amp;quot;Songti SC&amp;quot;, 宋体-简, -apple-system, BlinkMacSystemFont, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;审批表&lt;/span&gt;》" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1aUoQaB9tQkw4oGwF-Xe-38" vertex="1">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-56" value="3. 《报价》盖章" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1aUoQaB9tQkw4oGwF-Xe-38" vertex="1">
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-56" value="3. 《报价》（盖章）" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1aUoQaB9tQkw4oGwF-Xe-38" vertex="1">
           <mxGeometry y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-60" value="市场部签批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
