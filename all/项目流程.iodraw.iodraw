@@ -45,10 +45,10 @@
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-116" value="&lt;b&gt;立项流程文件&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="I8cROWn13_FRT5pySKI2-2" vertex="1">
           <mxGeometry x="45" y="3094" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-117" value="1. 《项目立项表》&lt;div&gt;（分析部部分）&lt;/div&gt;" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1aUoQaB9tQkw4oGwF-Xe-116" vertex="1">
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-117" value="1. 《项目立项表》&lt;div&gt;（分析部部分）&lt;/div&gt;" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1aUoQaB9tQkw4oGwF-Xe-116" vertex="1">
           <mxGeometry y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-127" value="立项汇报材料" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1aUoQaB9tQkw4oGwF-Xe-116" vertex="1">
+        <mxCell id="1aUoQaB9tQkw4oGwF-Xe-127" value="2. 《立项汇报材料" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1aUoQaB9tQkw4oGwF-Xe-116" vertex="1">
           <mxGeometry y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-121" value="立项会议" style="rounded=1;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-2" vertex="1">
