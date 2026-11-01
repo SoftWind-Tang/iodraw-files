@@ -425,6 +425,9 @@
         <mxCell id="TAs66nJV3eypl2slIgqz-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-131" target="1aUoQaB9tQkw4oGwF-Xe-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-3" source="1aUoQaB9tQkw4oGwF-Xe-131" target="TAs66nJV3eypl2slIgqz-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1aUoQaB9tQkw4oGwF-Xe-131" value="供应商外采" style="rounded=1;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-3" vertex="1">
           <mxGeometry x="112" y="3667" width="76" height="33" as="geometry" />
         </mxCell>
