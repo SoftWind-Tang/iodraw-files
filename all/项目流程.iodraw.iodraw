@@ -16,7 +16,7 @@
           <mxGeometry x="60" y="286" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-64" value="技术方案" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-2" vertex="1">
-          <mxGeometry x="50" y="727" width="110" height="150" as="geometry" />
+          <mxGeometry x="50" y="727" width="110" height="180" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-65" value="1. 如何实现" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-64" vertex="1">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
@@ -29,6 +29,9 @@
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-137" value="4. 项目范围" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-64">
           <mxGeometry y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-138" value="5. 验收指标" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="I8cROWn13_FRT5pySKI2-64">
+          <mxGeometry y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-110" value="分析部报备" style="rounded=1;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-2" vertex="1">
           <mxGeometry x="76" y="1776" width="76" height="33" as="geometry" />
