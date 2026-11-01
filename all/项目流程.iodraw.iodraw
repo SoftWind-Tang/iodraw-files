@@ -1199,8 +1199,8 @@
             <mxPoint x="1400" y="706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-7" value="需求沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="460" width="60" height="80" as="geometry" />
+        <mxCell id="TAs66nJV3eypl2slIgqz-7" value="需&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;求&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 沟&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="240" width="60" height="450" as="geometry" />
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-145" value="方&amp;nbsp; &amp;nbsp; &amp;nbsp; 案&amp;nbsp; &amp;nbsp; &amp;nbsp; 验&amp;nbsp; &amp;nbsp; &amp;nbsp; 证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-210" y="840" width="60" height="730" as="geometry" />
