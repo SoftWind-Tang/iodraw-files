@@ -1105,7 +1105,7 @@
             <mxRectangle width="50" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-34" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-17">
+        <mxCell id="TAs66nJV3eypl2slIgqz-34" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;完全定制化开发项目&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-17">
           <mxGeometry x="50" width="150" height="60" as="geometry">
             <mxRectangle width="150" height="60" as="alternateBounds" />
           </mxGeometry>
