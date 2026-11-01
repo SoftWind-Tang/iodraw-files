@@ -1230,8 +1230,8 @@
             <mxPoint x="1391" y="3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-161" value="合同归档" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="3760" width="60" height="80" as="geometry" />
+        <mxCell id="TAs66nJV3eypl2slIgqz-161" value="交付验收" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="3190" width="60" height="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
