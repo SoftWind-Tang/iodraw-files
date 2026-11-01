@@ -1037,18 +1037,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-31" value="分类标准" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-27">
-          <mxGeometry x="50" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-29" value="工作内容" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-27">
-          <mxGeometry x="200" width="110" height="30" as="geometry">
+          <mxGeometry x="50" width="110" height="30" as="geometry">
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-29" value="工作内容" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-27">
+          <mxGeometry x="160" width="90" height="30" as="geometry">
+            <mxRectangle width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-30" value="预计开发时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-27">
-          <mxGeometry x="310" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
+          <mxGeometry x="250" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-10">
@@ -1060,18 +1060,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-32" value="客户所需字段为现成字段" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-11">
-          <mxGeometry x="50" width="150" height="60" as="geometry">
-            <mxRectangle width="150" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-13" value="1. 接口开发&lt;div&gt;2. 联调测试&lt;/div&gt;&lt;div&gt;3. 服务器配置&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-11">
-          <mxGeometry x="200" width="110" height="60" as="geometry">
+          <mxGeometry x="50" width="110" height="60" as="geometry">
             <mxRectangle width="110" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-13" value="1. 接口开发&lt;div&gt;2. 联调测试&lt;/div&gt;&lt;div&gt;3. 服务器配置&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-11">
+          <mxGeometry x="160" width="90" height="60" as="geometry">
+            <mxRectangle width="90" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-23" value="？天" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-11">
-          <mxGeometry x="310" width="150" height="60" as="geometry">
-            <mxRectangle width="150" height="60" as="alternateBounds" />
+          <mxGeometry x="250" width="210" height="60" as="geometry">
+            <mxRectangle width="210" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TAs66nJV3eypl2slIgqz-10">
@@ -1083,18 +1083,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-33" value="客户所需字段中部分或全部为&lt;span style=&quot;font-size: 11px;&quot;&gt;无现有字段、无现有指标&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-14">
-          <mxGeometry x="50" width="150" height="70" as="geometry">
-            <mxRectangle width="150" height="70" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-16" value="1. 接口开发&lt;div&gt;2. 指标开发&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 联调测试&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. 服务器配置&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-14">
-          <mxGeometry x="200" width="110" height="70" as="geometry">
+          <mxGeometry x="50" width="110" height="70" as="geometry">
             <mxRectangle width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-16" value="1. 接口开发&lt;div&gt;2. 指标开发&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 联调测试&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. 服务器配置&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-14">
+          <mxGeometry x="160" width="90" height="70" as="geometry">
+            <mxRectangle width="90" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-24" value="？天" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-14">
-          <mxGeometry x="310" width="150" height="70" as="geometry">
-            <mxRectangle width="150" height="70" as="alternateBounds" />
+          <mxGeometry x="250" width="210" height="70" as="geometry">
+            <mxRectangle width="210" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;swimlaneLine=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-10">
@@ -1106,18 +1106,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-34" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;完全定制化开发项目&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-17">
-          <mxGeometry x="50" width="150" height="60" as="geometry">
-            <mxRectangle width="150" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-19" value="定制化开发" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-17">
-          <mxGeometry x="200" width="110" height="60" as="geometry">
+          <mxGeometry x="50" width="110" height="60" as="geometry">
             <mxRectangle width="110" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-19" value="定制化开发" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-17">
+          <mxGeometry x="160" width="90" height="60" as="geometry">
+            <mxRectangle width="90" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-25" value="？天" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-17">
-          <mxGeometry x="310" width="150" height="60" as="geometry">
-            <mxRectangle width="150" height="60" as="alternateBounds" />
+          <mxGeometry x="250" width="210" height="60" as="geometry">
+            <mxRectangle width="210" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TAs66nJV3eypl2slIgqz-10">
@@ -1129,18 +1129,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-35" value="分析报告类" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-20">
-          <mxGeometry x="50" width="150" height="60" as="geometry">
-            <mxRectangle width="150" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-22" value="1. 数据申请&lt;div&gt;2. 数据分析&lt;/div&gt;&lt;div&gt;3. 报告攥写&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-20">
-          <mxGeometry x="200" width="110" height="60" as="geometry">
+          <mxGeometry x="50" width="110" height="60" as="geometry">
             <mxRectangle width="110" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-22" value="1. 数据申请&lt;div&gt;2. 数据分析&lt;/div&gt;&lt;div&gt;3. 报告攥写&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-20">
+          <mxGeometry x="160" width="90" height="60" as="geometry">
+            <mxRectangle width="90" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-26" value="？天" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-20">
-          <mxGeometry x="310" width="150" height="60" as="geometry">
-            <mxRectangle width="150" height="60" as="alternateBounds" />
+          <mxGeometry x="250" width="210" height="60" as="geometry">
+            <mxRectangle width="210" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-41" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TAs66nJV3eypl2slIgqz-10">
@@ -1152,18 +1152,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-43" value="客户通过实验室类进行自主分析的项目" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-41">
-          <mxGeometry x="50" width="150" height="60" as="geometry">
-            <mxRectangle width="150" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-44" value="1. 数据申请&lt;div&gt;2. 实验室部署&lt;/div&gt;&lt;div&gt;3. 环境测试&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-41">
-          <mxGeometry x="200" width="110" height="60" as="geometry">
+          <mxGeometry x="50" width="110" height="60" as="geometry">
             <mxRectangle width="110" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-44" value="1. 数据申请&lt;div&gt;2. 实验室部署&lt;/div&gt;&lt;div&gt;3. 环境测试&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-41">
+          <mxGeometry x="160" width="90" height="60" as="geometry">
+            <mxRectangle width="90" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TAs66nJV3eypl2slIgqz-45" value="？天" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="TAs66nJV3eypl2slIgqz-41">
-          <mxGeometry x="310" width="150" height="60" as="geometry">
-            <mxRectangle width="150" height="60" as="alternateBounds" />
+          <mxGeometry x="250" width="210" height="60" as="geometry">
+            <mxRectangle width="210" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
