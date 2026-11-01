@@ -1209,9 +1209,6 @@
         <mxCell id="TAs66nJV3eypl2slIgqz-149" value="线索导入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-370" y="2910" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-152" value="客户盖章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="3070" width="110" height="33" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
