@@ -1064,7 +1064,7 @@
             <mxRectangle width="150" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TAs66nJV3eypl2slIgqz-13" value="1. 接口开发&lt;div&gt;2. 联调测试&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-11">
+        <mxCell id="TAs66nJV3eypl2slIgqz-13" value="1. 接口开发&lt;div&gt;2. 联调测试&lt;/div&gt;&lt;div&gt;3. 服务器配置&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TAs66nJV3eypl2slIgqz-11">
           <mxGeometry x="200" width="110" height="60" as="geometry">
             <mxRectangle width="110" height="60" as="alternateBounds" />
           </mxGeometry>
