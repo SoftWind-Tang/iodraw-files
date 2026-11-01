@@ -603,6 +603,14 @@
         <mxCell id="I8cROWn13_FRT5pySKI2-106" value="徐律审核" style="rounded=1;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-4" vertex="1">
           <mxGeometry x="53" y="1777" width="66" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I8cROWn13_FRT5pySKI2-4" source="I8cROWn13_FRT5pySKI2-129" target="I8cROWn13_FRT5pySKI2-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAs66nJV3eypl2slIgqz-51" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TAs66nJV3eypl2slIgqz-50">
+          <mxGeometry x="0.0735" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I8cROWn13_FRT5pySKI2-129" value="EV报备" style="rounded=1;whiteSpace=wrap;html=1;" parent="I8cROWn13_FRT5pySKI2-4" vertex="1">
           <mxGeometry x="188" y="1777" width="66" height="33" as="geometry" />
         </mxCell>
