@@ -270,11 +270,14 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-105" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="520" y="1040" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-106" value="商务流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-105">
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-106" value="合同归档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-105">
           <mxGeometry y="20" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-107" value="销售部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-105">
           <mxGeometry width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-102" target="Xj1DoQi2K96pEDaISaqr-107">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
