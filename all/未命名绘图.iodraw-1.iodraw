@@ -165,9 +165,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="650" y="765" />
-              <mxPoint x="650" y="539" />
+              <mxPoint x="600" y="765" />
+              <mxPoint x="600" y="539" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-70" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xj1DoQi2K96pEDaISaqr-69">
+          <mxGeometry x="-0.8205" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-64" value="需求冻结" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
