@@ -103,7 +103,7 @@
           <mxGeometry width="15" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-65" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-48">
-          <mxGeometry x="-2.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="-2.5" y="5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-52" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="447.5" y="599" width="45" height="90" as="geometry" />
