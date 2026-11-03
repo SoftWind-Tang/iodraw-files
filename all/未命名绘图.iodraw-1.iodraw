@@ -162,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-64" value="需求冻结" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="740" width="100" height="60" as="geometry" />
+          <mxGeometry x="420" y="737" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
