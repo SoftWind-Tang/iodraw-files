@@ -99,7 +99,7 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-40" value="项&amp;nbsp; 目&amp;nbsp; 经&amp;nbsp; 理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-48">
           <mxGeometry x="15" width="30" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-47" value="销&amp;nbsp; 售&amp;nbsp; 部" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;verticalAlign=middle;spacingRight=2;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-48">
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-47" value="销&amp;nbsp; 售&amp;nbsp; 部" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;verticalAlign=middle;spacingRight=3;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-48">
           <mxGeometry width="15" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-65" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-48">
