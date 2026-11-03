@@ -87,9 +87,12 @@
             <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-22" target="Xj1DoQi2K96pEDaISaqr-30">
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-39" value="项目靠谱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xj1DoQi2K96pEDaISaqr-38">
