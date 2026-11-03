@@ -187,7 +187,7 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-76" value="分析部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-74">
           <mxGeometry width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-136" value="分析部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-74">
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-136" value="销售部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-74">
           <mxGeometry x="60" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-78" value="" style="group" vertex="1" connectable="0" parent="1">
