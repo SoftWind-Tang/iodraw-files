@@ -25,38 +25,20 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-8" target="Xj1DoQi2K96pEDaISaqr-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-8" value="终 端 用 户" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="30" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-9" target="Xj1DoQi2K96pEDaISaqr-22">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-9" value="需 求 真 实" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-10" target="Xj1DoQi2K96pEDaISaqr-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-10" value="业 务 场 景" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="270" width="30" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-11" target="Xj1DoQi2K96pEDaISaqr-22">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-11" value="决 策 链 路" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-12" target="Xj1DoQi2K96pEDaISaqr-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-12" value="项 目 预 算" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="270" width="30" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-13" target="Xj1DoQi2K96pEDaISaqr-22">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-13" value="项 目 周 期" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-6" target="Xj1DoQi2K96pEDaISaqr-2">
           <mxGeometry relative="1" as="geometry" />
@@ -354,6 +336,27 @@
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.87;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-79" target="Xj1DoQi2K96pEDaISaqr-76">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-139" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="270" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-8" value="终 端 用 户" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-139">
+          <mxGeometry width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-9" value="需 求 真 实" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-139">
+          <mxGeometry x="100" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-10" value="业 务 场 景" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-139">
+          <mxGeometry x="50" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-11" value="决 策 链 路" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-139">
+          <mxGeometry x="150" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-12" value="项 目 预 算" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-139">
+          <mxGeometry x="200" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-13" value="项 目 周 期" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-139">
+          <mxGeometry x="250" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
