@@ -110,13 +110,13 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-34" value="项目终止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="400" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-40" value="终 端 用 户" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-40" value="终 端 用 户" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
           <mxGeometry x="405" y="600" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-41" value="需 求 真 实" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
           <mxGeometry x="505" y="600" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-42" value="业 务 场 景" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-42" value="业 务 场 景" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=2;" vertex="1" parent="1">
           <mxGeometry x="455" y="600" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-47" value="市场部" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;verticalAlign=middle;spacingRight=2;" vertex="1" parent="1">
