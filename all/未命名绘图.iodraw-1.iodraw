@@ -29,10 +29,10 @@
           <mxGeometry x="430" y="260" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-10" value="业 务 场 景" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="30" height="80" as="geometry" />
+          <mxGeometry x="380" y="260" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-11" value="决 策 链 路" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="470" y="260" width="30" height="80" as="geometry" />
+          <mxGeometry x="480" y="260" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-12" value="项 目 预 算" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="520" y="260" width="30" height="80" as="geometry" />
