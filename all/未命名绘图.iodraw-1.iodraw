@@ -199,7 +199,7 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-78" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="420" y="800" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-79" value="技术交流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-78">
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-79" value="邮件沟通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-78">
           <mxGeometry y="20" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-80" value="市场部 - 销售" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Xj1DoQi2K96pEDaISaqr-78">
