@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7RTmCW410TrR4Ep1sYNj">
-    <mxGraphModel dx="694" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1214" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,11 +263,6 @@
               <mxPoint x="369" y="1030" />
               <mxPoint x="442" y="1030" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-116" value="负责人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xj1DoQi2K96pEDaISaqr-100">
-          <mxGeometry x="-0.7318" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-101" value="" style="group" vertex="1" connectable="0" parent="1">
