@@ -40,8 +40,14 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-10" value="业 务 场 景" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="30" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-11" target="Xj1DoQi2K96pEDaISaqr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-11" value="决 策 链 路" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="480" y="270" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj1DoQi2K96pEDaISaqr-12" target="Xj1DoQi2K96pEDaISaqr-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xj1DoQi2K96pEDaISaqr-12" value="项 目 预 算" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="30" height="80" as="geometry" />
