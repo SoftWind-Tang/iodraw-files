@@ -28,8 +28,8 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-9" value="需 求 真 实" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="440" y="260" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-10" value="终 端 用 户" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="360" y="270" width="30" height="80" as="geometry" />
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-10" value="业 务 场 景" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
