@@ -119,7 +119,7 @@
         <mxCell id="Xj1DoQi2K96pEDaISaqr-42" value="业 务 场 景" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="455" y="600" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1DoQi2K96pEDaISaqr-47" value="终 端 用 户" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="Xj1DoQi2K96pEDaISaqr-47" value="终 端 用 户" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="390" y="600" width="15" height="80" as="geometry" />
         </mxCell>
       </root>
